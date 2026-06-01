@@ -1,0 +1,1 @@
+import{Ba as a,pa as t,xa as n,ya as m}from"./chunk-AIKFS5VE.js";var c=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-chromatic-mode"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),a(1,"chromatic-mode works!"),m())},encapsulation:2})};export{c as ChromaticModeComponent};

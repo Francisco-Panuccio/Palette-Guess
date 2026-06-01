@@ -1,0 +1,1302 @@
+[
+  {
+    "name_es": "MCDONALDS",
+    "name_en": "MCDONALD'S",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "HAMBURGUESA",
+    "hint2_en": "BURGER",
+    "colors": [
+      "#FFC72C",
+      "#DA291C",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BURGER KING",
+    "name_en": "BURGER KING",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "HAMBURGUESA",
+    "hint2_en": "BURGER",
+    "colors": [
+      "#D62300",
+      "#F5E1A4",
+      "#502314"
+    ]
+  },
+  {
+    "name_es": "KFC",
+    "name_en": "KFC",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "POLLO FRITO",
+    "hint2_en": "FRIED CHICKEN",
+    "colors": [
+      "#F40027",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "SUBWAY",
+    "name_en": "SUBWAY",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "SANDWICH",
+    "hint2_en": "SANDWICH",
+    "colors": [
+      "#009743",
+      "#FFCE00",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PIZZA HUT",
+    "name_en": "PIZZA HUT",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "PIZZA",
+    "hint2_en": "PIZZA",
+    "colors": [
+      "#EE3124",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DOMINOS",
+    "name_en": "DOMINO'S",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "PIZZA",
+    "hint2_en": "PIZZA",
+    "colors": [
+      "#006491",
+      "#E31837",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GRIDO",
+    "name_en": "GRIDO",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "HELADO",
+    "hint2_en": "ICE CREAM",
+    "colors": [
+      "#00AEEF",
+      "#FFFFFF",
+      "#0057A8"
+    ]
+  },
+  {
+    "name_es": "STARBUCKS",
+    "name_en": "STARBUCKS",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "CAFE",
+    "hint2_en": "COFFEE",
+    "colors": [
+      "#006241",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "COCA COLA",
+    "name_en": "COCA-COLA",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "GASEOSA",
+    "hint2_en": "SODA",
+    "colors": [
+      "#F40009",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "PEPSI",
+    "name_en": "PEPSI",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "GASEOSA",
+    "hint2_en": "SODA",
+    "colors": [
+      "#004B93",
+      "#FFFFFF",
+      "#E32934"
+    ]
+  },
+  {
+    "name_es": "SPRITE",
+    "name_en": "SPRITE",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "GASEOSA",
+    "hint2_en": "SODA",
+    "colors": [
+      "#00A651",
+      "#F7FF00",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FANTA",
+    "name_en": "FANTA",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "GASEOSA",
+    "hint2_en": "SODA",
+    "colors": [
+      "#FF8300",
+      "#0057B8",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "RED BULL",
+    "name_en": "RED BULL",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "ENERGETICA",
+    "hint2_en": "ENERGY DRINK",
+    "colors": [
+      "#001489",
+      "#D50032",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "MONSTER",
+    "name_en": "MONSTER",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "ENERGETICA",
+    "hint2_en": "ENERGY DRINK",
+    "colors": [
+      "#6CC24A",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "NESCAFE",
+    "name_en": "NESCAFE",
+    "hint1_es": "BEBIDA",
+    "hint1_en": "DRINK",
+    "hint2_es": "CAFE",
+    "hint2_en": "COFFEE",
+    "colors": [
+      "#000000",
+      "#E60012",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CHEVROLET",
+    "name_en": "CHEVROLET",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "CORSA",
+    "hint2_en": "CORSA",
+    "colors": [
+      "#C8A951",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FORD",
+    "name_en": "FORD",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "MUSTANG",
+    "hint2_en": "MUSTANG",
+    "colors": [
+      "#003478",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "TOYOTA",
+    "name_en": "TOYOTA",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "COROLLA",
+    "hint2_en": "COROLLA",
+    "colors": [
+      "#EB0A1E",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "HONDA",
+    "name_en": "HONDA",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "CIVIC",
+    "hint2_en": "CIVIC",
+    "colors": [
+      "#E40521",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BMW",
+    "name_en": "BMW",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "M3",
+    "hint2_en": "M3",
+    "colors": [
+      "#0066B1",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MERCEDES BENZ",
+    "name_en": "MERCEDES-BENZ",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "CLASE C",
+    "hint2_en": "C CLASS",
+    "colors": [
+      "#C0C0C0",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "AUDI",
+    "name_en": "AUDI",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "A4",
+    "hint2_en": "A4",
+    "colors": [
+      "#000000",
+      "#C0C0C0",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FERRARI",
+    "name_en": "FERRARI",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "F40",
+    "hint2_en": "F40",
+    "colors": [
+      "#FF2800",
+      "#000000",
+      "#FFD700"
+    ]
+  },
+  {
+    "name_es": "LAMBORGHINI",
+    "name_en": "LAMBORGHINI",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "AVENTADOR",
+    "hint2_en": "AVENTADOR",
+    "colors": [
+      "#D4AF37",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PORSCHE",
+    "name_en": "PORSCHE",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "911",
+    "hint2_en": "911",
+    "colors": [
+      "#000000",
+      "#B12B28",
+      "#D4AF37"
+    ]
+  },
+  {
+    "name_es": "TESLA",
+    "name_en": "TESLA",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "MODEL S",
+    "hint2_en": "MODEL S",
+    "colors": [
+      "#CC0000",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "VOLKSWAGEN",
+    "name_en": "VOLKSWAGEN",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "GOLF",
+    "hint2_en": "GOLF",
+    "colors": [
+      "#001E50",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "RENAULT",
+    "name_en": "RENAULT",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "CLIO",
+    "hint2_en": "CLIO",
+    "colors": [
+      "#FFCC00",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FIAT",
+    "name_en": "FIAT",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "UNO",
+    "hint2_en": "UNO",
+    "colors": [
+      "#9B0000",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "NISSAN",
+    "name_en": "NISSAN",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "SENTRA",
+    "hint2_en": "SENTRA",
+    "colors": [
+      "#C3002F",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "APPLE",
+    "name_en": "APPLE",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "IPHONE",
+    "hint2_en": "IPHONE",
+    "colors": [
+      "#A2AAAD",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SAMSUNG",
+    "name_en": "SAMSUNG",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "GALAXY",
+    "hint2_en": "GALAXY",
+    "colors": [
+      "#1428A0",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "XIAOMI",
+    "name_en": "XIAOMI",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "REDMI",
+    "hint2_en": "REDMI",
+    "colors": [
+      "#FF6900",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MOTOROLA",
+    "name_en": "MOTOROLA",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "MOTO G75",
+    "hint2_en": "MOTO G75",
+    "colors": [
+      "#5C2D91",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "SONY",
+    "name_en": "SONY",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "PLAYSTATION 5",
+    "hint2_en": "PLAYSTATION 5",
+    "colors": [
+      "#003791",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MICROSOFT",
+    "name_en": "MICROSOFT",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "XBOX SERIES X",
+    "hint2_en": "XBOX SERIES X",
+    "colors": [
+      "#7FBA00",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "NINTENDO",
+    "name_en": "NINTENDO",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "SWITCH",
+    "hint2_en": "SWITCH",
+    "colors": [
+      "#E60012",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "INSTAGRAM",
+    "name_en": "INSTAGRAM",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "FOTOS",
+    "hint2_en": "PHOTOS",
+    "colors": [
+      "#833AB4",
+      "#FD1D1D",
+      "#FCAF45"
+    ]
+  },
+  {
+    "name_es": "FACEBOOK",
+    "name_en": "FACEBOOK",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "PUBLICACIONES",
+    "hint2_en": "POSTS",
+    "colors": [
+      "#1877F2",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "X",
+    "name_en": "X",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "TUIT",
+    "hint2_en": "TWEET",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#1DA1F2"
+    ]
+  },
+  {
+    "name_es": "TIKTOK",
+    "name_en": "TIKTOK",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "CORTOS",
+    "hint2_en": "SHORTS",
+    "colors": [
+      "#000000",
+      "#25F4EE",
+      "#FE2C55"
+    ]
+  },
+  {
+    "name_es": "YOUTUBE",
+    "name_en": "YOUTUBE",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "VIDEOS",
+    "hint2_en": "VIDEOS",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "TWITCH",
+    "name_en": "TWITCH",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "STREAMING",
+    "hint2_en": "STREAMING",
+    "colors": [
+      "#9146FF",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "DISCORD",
+    "name_en": "DISCORD",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "CHAT DE VOZ",
+    "hint2_en": "VOICE CHAT",
+    "colors": [
+      "#5865F2",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "WHATSAPP",
+    "name_en": "WHATSAPP",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "MENSAJERIA",
+    "hint2_en": "MESSAGING",
+    "colors": [
+      "#25D366",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "SNAPCHAT",
+    "name_en": "SNAPCHAT",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "HISTORIAS",
+    "hint2_en": "STORIES",
+    "colors": [
+      "#FFFC00",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LINKEDIN",
+    "name_en": "LINKEDIN",
+    "hint1_es": "RED SOCIAL",
+    "hint1_en": "SOCIAL MEDIA",
+    "hint2_es": "TRABAJO",
+    "hint2_en": "WORK",
+    "colors": [
+      "#0A66C2",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "NIKE",
+    "name_en": "NIKE",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "AIR FORCE",
+    "hint2_en": "AIR FORCE",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#F5F5F5"
+    ]
+  },
+  {
+    "name_es": "ADIDAS",
+    "name_en": "ADIDAS",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "SUPERSTAR",
+    "hint2_en": "SUPERSTAR",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "PUMA",
+    "name_en": "PUMA",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "SUEDE",
+    "hint2_en": "SUEDE",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#D50032"
+    ]
+  },
+  {
+    "name_es": "REEBOK",
+    "name_en": "REEBOK",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "CLASSIC",
+    "hint2_en": "CLASSIC",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF",
+      "#E4002B"
+    ]
+  },
+  {
+    "name_es": "NEW BALANCE",
+    "name_en": "NEW BALANCE",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "574",
+    "hint2_en": "574",
+    "colors": [
+      "#E21836",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "VANS",
+    "name_en": "VANS",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "OLD SKOOL",
+    "hint2_en": "OLD SKOOL",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#D71920"
+    ]
+  },
+  {
+    "name_es": "CONVERSE",
+    "name_en": "CONVERSE",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "ALL STAR",
+    "hint2_en": "ALL STAR",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#E31837"
+    ]
+  },
+  {
+    "name_es": "CROCS",
+    "name_en": "CROCS",
+    "hint1_es": "CALZADO",
+    "hint1_en": "FOOTWEAR",
+    "hint2_es": "CLOG",
+    "hint2_en": "CLOG",
+    "colors": [
+      "#78BE20",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "LEVIS",
+    "name_en": "LEVI'S",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "JEAN",
+    "hint2_en": "JEANS",
+    "colors": [
+      "#C41230",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "ZARA",
+    "name_en": "ZARA",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "MODA",
+    "hint2_en": "FASHION",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "H&M",
+    "name_en": "H&M",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "MODA",
+    "hint2_en": "FASHION",
+    "colors": [
+      "#E50010",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "GUCCI",
+    "name_en": "GUCCI",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "LUJO",
+    "hint2_en": "LUXURY",
+    "colors": [
+      "#0B3B2E",
+      "#B9975B",
+      "#A71930"
+    ]
+  },
+  {
+    "name_es": "PRADA",
+    "name_en": "PRADA",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "LUJO",
+    "hint2_en": "LUXURY",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "LOUIS VUITTON",
+    "name_en": "LOUIS VUITTON",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "LUJO",
+    "hint2_en": "LUXURY",
+    "colors": [
+      "#4B3621",
+      "#D4AF37",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "LACOSTE",
+    "name_en": "LACOSTE",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "CHOMBA",
+    "hint2_en": "POLO SHIRT",
+    "colors": [
+      "#006A4E",
+      "#FFFFFF",
+      "#E30613"
+    ]
+  },
+  {
+    "name_es": "TOMMY HILFIGER",
+    "name_en": "TOMMY HILFIGER",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "CHOMBA",
+    "hint2_en": "POLO SHIRT",
+    "colors": [
+      "#002868",
+      "#FFFFFF",
+      "#BF0A30"
+    ]
+  },
+  {
+    "name_es": "RALPH LAUREN",
+    "name_en": "RALPH LAUREN",
+    "hint1_es": "ROPA",
+    "hint1_en": "CLOTHING",
+    "hint2_es": "CHOMBA",
+    "hint2_en": "POLO SHIRT",
+    "colors": [
+      "#041E42",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "CHANEL",
+    "name_en": "CHANEL",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PERFUME",
+    "hint2_en": "PERFUME",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "DIOR",
+    "name_en": "DIOR",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PERFUME",
+    "hint2_en": "PERFUME",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#D4AF37"
+    ]
+  },
+  {
+    "name_es": "VERSACE",
+    "name_en": "VERSACE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PERFUME",
+    "hint2_en": "PERFUME",
+    "colors": [
+      "#000000",
+      "#D4AF37",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PACO RABANNE",
+    "name_en": "PACO RABANNE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PERFUME",
+    "hint2_en": "PERFUME",
+    "colors": [
+      "#C0C0C0",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CAROLINA HERRERA",
+    "name_en": "CAROLINA HERRERA",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PERFUME",
+    "hint2_en": "PERFUME",
+    "colors": [
+      "#FF0000",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "NIVEA",
+    "name_en": "NIVEA",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "CREMA",
+    "hint2_en": "CREAM",
+    "colors": [
+      "#0032A0",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "LOREAL",
+    "name_en": "L'OREAL",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "MAQUILLAJE",
+    "hint2_en": "MAKEUP",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#D4AF37"
+    ]
+  },
+  {
+    "name_es": "MAYBELLINE",
+    "name_en": "MAYBELLINE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "MAQUILLAJE",
+    "hint2_en": "MAKEUP",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name_es": "DOVE",
+    "name_en": "DOVE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "JABON",
+    "hint2_en": "SOAP",
+    "colors": [
+      "#1C75BC",
+      "#FFFFFF",
+      "#D4AF37"
+    ]
+  },
+  {
+    "name_es": "AXE",
+    "name_en": "AXE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "DESODORANTE",
+    "hint2_en": "DEODORANT",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "REXONA",
+    "name_en": "REXONA",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "DESODORANTE",
+    "hint2_en": "DEODORANT",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "PANTENE",
+    "name_en": "PANTENE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "SHAMPOO",
+    "hint2_en": "SHAMPOO",
+    "colors": [
+      "#D4AF37",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "HEAD AND SHOULDERS",
+    "name_en": "HEAD & SHOULDERS",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "SHAMPOO",
+    "hint2_en": "SHAMPOO",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF",
+      "#00AEEF"
+    ]
+  },
+  {
+    "name_es": "COLGATE",
+    "name_en": "COLGATE",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "PASTA DENTAL",
+    "hint2_en": "TOOTHPASTE",
+    "colors": [
+      "#E31837",
+      "#FFFFFF",
+      "#0000FF"
+    ]
+  },
+  {
+    "name_es": "ORAL B",
+    "name_en": "ORAL-B",
+    "hint1_es": "PERFUMERIA",
+    "hint1_en": "PERFUMERY",
+    "hint2_es": "CEPILLO DENTAL",
+    "hint2_en": "TOOTHBRUSH",
+    "colors": [
+      "#0057B8",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "ARIEL",
+    "name_en": "ARIEL",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "DETERGENTE",
+    "hint2_en": "DETERGENT",
+    "colors": [
+      "#00AEEF",
+      "#FFFFFF",
+      "#00A651"
+    ]
+  },
+  {
+    "name_es": "SKIP",
+    "name_en": "SKIP",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "DETERGENTE",
+    "hint2_en": "DETERGENT",
+    "colors": [
+      "#00AEEF",
+      "#FFFFFF",
+      "#FFD700"
+    ]
+  },
+  {
+    "name_es": "MR MUSCULO",
+    "name_en": "MR MUSCLE",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "LIMPIADOR",
+    "hint2_en": "CLEANER",
+    "colors": [
+      "#FF6600",
+      "#FFD400",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "CIF",
+    "name_en": "CIF",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "LIMPIADOR",
+    "hint2_en": "CLEANER",
+    "colors": [
+      "#00A651",
+      "#FFFFFF",
+      "#FFD700"
+    ]
+  },
+  {
+    "name_es": "AYUDIN",
+    "name_en": "AYUDIN",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "LAVANDINA",
+    "hint2_en": "BLEACH",
+    "colors": [
+      "#0066CC",
+      "#FFFFFF",
+      "#FFD700"
+    ]
+  },
+  {
+    "name_es": "LYSOL",
+    "name_en": "LYSOL",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "DESINFECTANTE",
+    "hint2_en": "DISINFECTANT",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF",
+      "#FFD100"
+    ]
+  },
+  {
+    "name_es": "VANISH",
+    "name_en": "VANISH",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "QUITAMANCHAS",
+    "hint2_en": "STAIN REMOVER",
+    "colors": [
+      "#EC008C",
+      "#FFFFFF",
+      "#00AEEF"
+    ]
+  },
+  {
+    "name_es": "ALA",
+    "name_en": "ALA",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "JABON EN POLVO",
+    "hint2_en": "WASHING POWDER",
+    "colors": [
+      "#005BAC",
+      "#FFFFFF",
+      "#FFD100"
+    ]
+  },
+  {
+    "name_es": "OMO",
+    "name_en": "OMO",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "DETERGENTE",
+    "hint2_en": "DETERGENT",
+    "colors": [
+      "#005BAC",
+      "#E30613",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "POETT",
+    "name_en": "POETT",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "DESODORANTE DE PISO",
+    "hint2_en": "FLOOR DEODORIZER",
+    "colors": [
+      "#7B2CBF",
+      "#FFFFFF",
+      "#00AEEF"
+    ]
+  },
+  {
+    "name_es": "GLADE",
+    "name_en": "GLADE",
+    "hint1_es": "LIMPIEZA",
+    "hint1_en": "CLEANING",
+    "hint2_es": "AROMATIZANTE",
+    "hint2_en": "AIR FRESHENER",
+    "colors": [
+      "#00A651",
+      "#FFFFFF",
+      "#6A1B9A"
+    ]
+  },
+  {
+    "name_es": "BIC",
+    "name_en": "BIC",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "ENCENDEDOR",
+    "hint2_en": "LIGHTER",
+    "colors": [
+      "#FF6F00",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PLAYSTATION",
+    "name_en": "PLAYSTATION",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "CONSOLA",
+    "hint2_en": "CONSOLE",
+    "colors": [
+      "#003791",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "XBOX",
+    "name_en": "XBOX",
+    "hint1_es": "TECNOLOGIA",
+    "hint1_en": "TECHNOLOGY",
+    "hint2_es": "CONSOLA",
+    "hint2_en": "CONSOLE",
+    "colors": [
+      "#107C10",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "TERRABUSI",
+    "name_en": "TERRABUSI",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "GALLETITAS",
+    "hint2_en": "COOKIES",
+    "colors": [
+      "#ED1C24",
+      "#FFFFFF",
+      "#003DA5"
+    ]
+  },
+  {
+    "name_es": "OREO",
+    "name_en": "OREO",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "GALLETITAS",
+    "hint2_en": "COOKIES",
+    "colors": [
+      "#0057B8",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "BIMBO",
+    "name_en": "BIMBO",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "PAN",
+    "hint2_en": "BREAD",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#005BAC"
+    ]
+  },
+  {
+    "name_es": "MILKA",
+    "name_en": "MILKA",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "CHOCOLATE",
+    "hint2_en": "CHOCOLATE",
+    "colors": [
+      "#6F2DA8",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "NUTELLA",
+    "name_en": "NUTELLA",
+    "hint1_es": "COMIDA",
+    "hint1_en": "FOOD",
+    "hint2_es": "CREMA DE AVELLANAS",
+    "hint2_en": "HAZELNUT SPREAD",
+    "colors": [
+      "#E30613",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PEUGEOT",
+    "name_en": "PEUGEOT",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "208",
+    "hint2_en": "208",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "CITROEN",
+    "name_en": "CITROEN",
+    "hint1_es": "AUTOMOVIL",
+    "hint1_en": "AUTOMOBILE",
+    "hint2_es": "C3",
+    "hint2_en": "C3",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#E30613"
+    ]
+  }
+]

@@ -1,0 +1,2888 @@
+[
+  {
+    "name_es": "ALADDIN",
+    "name_en": "ALADDIN",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "ALADDIN",
+    "hint2_en": "ALADDIN",
+    "colors": [
+      "#A855F7",
+      "#FFFFFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "GENIO",
+    "name_en": "GENIE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "ALADDIN",
+    "hint2_en": "ALADDIN",
+    "colors": [
+      "#1E5EFF",
+      "#FFD43B",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BEN TENNYSON",
+    "name_en": "BEN TENNYSON",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#3CB043",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "CUATRO BRAZOS",
+    "name_en": "FOUR ARMS",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DIAMANTE",
+    "name_en": "DIAMONDHEAD",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FUEGO",
+    "name_en": "HEATBLAST",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GWEN TENNYSON",
+    "name_en": "GWEN TENNYSON",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "XLR8",
+    "name_en": "XLR8",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "BEN 10",
+    "hint2_en": "BEN 10",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ARENITA",
+    "name_en": "SANDY CHEEKS",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#FFFFFF",
+      "#8B5A2B",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name_es": "BOB ESPONJA",
+    "name_en": "SPONGEBOB SQUAREPANTS",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#F7E733",
+      "#8B5A2B",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CALAMARDO",
+    "name_en": "SQUIDWARD",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#8CC6B8",
+      "#A06A42",
+      "#5E5E5E"
+    ]
+  },
+  {
+    "name_es": "DON CANGREJO",
+    "name_en": "MR. KRABS",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#D62828",
+      "#5DADE2",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "PATRICIO",
+    "name_en": "PATRICK STAR",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#FFB3C7",
+      "#7ED957",
+      "#A855F7"
+    ]
+  },
+  {
+    "name_es": "DORY",
+    "name_en": "DORY",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "BUSCANDO A NEMO",
+    "hint2_en": "FINDING NEMO",
+    "colors": [
+      "#1E5EFF",
+      "#FFD43B",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "NEMO",
+    "name_en": "NEMO",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "BUSCANDO A NEMO",
+    "hint2_en": "FINDING NEMO",
+    "colors": [
+      "#FF7A00",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MARLIN",
+    "name_en": "MARLIN",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "BUSCANDO A NEMO",
+    "hint2_en": "FINDING NEMO",
+    "colors": [
+      "#FF7A00",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MATE",
+    "name_en": "MATER",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "CARS",
+    "hint2_en": "CARS",
+    "colors": [
+      "#8B5A2B",
+      "#7D7D7D",
+      "#5C4033"
+    ]
+  },
+  {
+    "name_es": "RAYO MCQUEEN",
+    "name_en": "LIGHTNING MCQUEEN",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "CARS",
+    "hint2_en": "CARS",
+    "colors": [
+      "#D62828",
+      "#FFD43B",
+      "#B0B0B0"
+    ]
+  },
+  {
+    "name_es": "SALLY CARRERA",
+    "name_en": "SALLY CARRERA",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "CARS",
+    "hint2_en": "CARS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CHOWDER",
+    "name_en": "CHOWDER",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CHOWDER",
+    "hint2_en": "CHOWDER",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MUNG DAAL",
+    "name_en": "MUNG DAAL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CHOWDER",
+    "hint2_en": "CHOWDER",
+    "colors": [
+      "#8E44AD",
+      "#F5CBA7",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SCHNITZEL",
+    "name_en": "SCHNITZEL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CHOWDER",
+    "hint2_en": "CHOWDER",
+    "colors": [
+      "#8B5A2B",
+      "#A93226",
+      "#F5CBA7"
+    ]
+  },
+  {
+    "name_es": "CLARENCE",
+    "name_en": "CLARENCE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CLARENCE",
+    "hint2_en": "CLARENCE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "JEFF",
+    "name_en": "JEFF",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CLARENCE",
+    "hint2_en": "CLARENCE",
+    "colors": [
+      "#5DADE2",
+      "#F4D03F",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "SUMO",
+    "name_en": "SUMO",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CLARENCE",
+    "hint2_en": "CLARENCE",
+    "colors": [
+      "#7D6608",
+      "#F5CBA7",
+      "#27AE60"
+    ]
+  },
+  {
+    "name_es": "CORAJE",
+    "name_en": "COURAGE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CORAJE EL PERRO COBARDE",
+    "hint2_en": "COURAGE THE COWARDLY DOG",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "JUSTO BOLSA",
+    "name_en": "EUSTACE BAGGE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CORAJE EL PERRO COBARDE",
+    "hint2_en": "COURAGE THE COWARDLY DOG",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MURIEL",
+    "name_en": "MURIEL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "CORAJE EL PERRO COBARDE",
+    "hint2_en": "COURAGE THE COWARDLY DOG",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "AKU AKU",
+    "name_en": "AKU AKU",
+    "hint1_es": "SONY",
+    "hint1_en": "SONY",
+    "hint2_es": "CRASH BANDICOOT",
+    "hint2_en": "CRASH BANDICOOT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "COCO BANDICOOT",
+    "name_en": "COCO BANDICOOT",
+    "hint1_es": "SONY",
+    "hint1_en": "SONY",
+    "hint2_es": "CRASH BANDICOOT",
+    "hint2_en": "CRASH BANDICOOT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CRASH BANDICOOT",
+    "name_en": "CRASH BANDICOOT",
+    "hint1_es": "SONY",
+    "hint1_en": "SONY",
+    "hint2_es": "CRASH BANDICOOT",
+    "hint2_en": "CRASH BANDICOOT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "DON GATO",
+    "name_en": "TOP CAT",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "DON GATO Y SU PANDILLA",
+    "hint2_en": "TOP CAT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BULMA",
+    "name_en": "BULMA",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CELL",
+    "name_en": "CELL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FREEZER",
+    "name_en": "FRIEZA",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FFFFFF",
+      "#A855F7",
+      "#C0C0C0"
+    ]
+  },
+  {
+    "name_es": "GOKU",
+    "name_en": "GOKU",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "KRILLIN",
+    "name_en": "KRILLIN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PICCOLO",
+    "name_en": "PICCOLO",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "VEGETA",
+    "name_en": "VEGETA",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "DRAGON BALL",
+    "hint2_en": "DRAGON BALL",
+    "colors": [
+      "#1E5EFF",
+      "#FFFFFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "ED",
+    "name_en": "ED",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ED, EDD Y EDDY",
+    "hint2_en": "ED, EDD N EDDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "EDD",
+    "name_en": "EDD",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ED, EDD Y EDDY",
+    "hint2_en": "ED, EDD N EDDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "EDDY",
+    "name_en": "EDDY",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ED, EDD Y EDDY",
+    "hint2_en": "ED, EDD N EDDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ROLF",
+    "name_en": "ROLF",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ED, EDD Y EDDY",
+    "hint2_en": "ED, EDD N EDDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "TABLON",
+    "name_en": "PLANK",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ED, EDD Y EDDY",
+    "hint2_en": "ED, EDD N EDDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ANAIS",
+    "name_en": "ANAIS",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
+    "hint2_en": "THE AMAZING WORLD OF GUMBALL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DARWIN",
+    "name_en": "DARWIN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
+    "hint2_en": "THE AMAZING WORLD OF GUMBALL",
+    "colors": [
+      "#FF7A00",
+      "#FFFFFF",
+      "#3CB043"
+    ]
+  },
+  {
+    "name_es": "GUMBALL",
+    "name_en": "GUMBALL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
+    "hint2_en": "THE AMAZING WORLD OF GUMBALL",
+    "colors": [
+      "#5DADE2",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "DEE DEE",
+    "name_en": "DEE DEE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "EL LABORATORIO DE DEXTER",
+    "hint2_en": "DEXTER'S LABORATORY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DEXTER",
+    "name_en": "DEXTER",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "EL LABORATORIO DE DEXTER",
+    "hint2_en": "DEXTER'S LABORATORY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "OSO YOGUI",
+    "name_en": "YOGI BEAR",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "EL OSO YOGUI",
+    "hint2_en": "YOGI BEAR",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PUMBA",
+    "name_en": "PUMBAA",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "EL REY LEON",
+    "hint2_en": "THE LION KING",
+    "colors": [
+      "#8B5A2B",
+      "#F5E6C8",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "SCAR",
+    "name_en": "SCAR",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "EL REY LEON",
+    "hint2_en": "THE LION KING",
+    "colors": [
+      "#8B5A2B",
+      "#000000",
+      "#3CB043"
+    ]
+  },
+  {
+    "name_es": "SIMBA",
+    "name_en": "SIMBA",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "EL REY LEON",
+    "hint2_en": "THE LION KING",
+    "colors": [
+      "#C97B30",
+      "#FFD43B",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "TIMON",
+    "name_en": "TIMON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "EL REY LEON",
+    "hint2_en": "THE LION KING",
+    "colors": [
+      "#C97B30",
+      "#FFB347",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "BUGS BUNNY",
+    "name_en": "BUGS BUNNY",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#B0B0B0",
+      "#FFFFFF",
+      "#FFB3C7"
+    ]
+  },
+  {
+    "name_es": "PIOLIN",
+    "name_en": "TWEETY",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FFD43B",
+      "#FF7A00",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BALLOON BOY",
+    "name_en": "BALLOON BOY",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BONNIE",
+    "name_en": "BONNIE",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#8B5A2B",
+      "#000000",
+      "#B22222"
+    ]
+  },
+  {
+    "name_es": "CHICA",
+    "name_en": "CHICA",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#FFD43B",
+      "#FF7A00",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FOXY",
+    "name_en": "FOXY",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FREDDY",
+    "name_en": "FREDDY",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#8B5A2B",
+      "#000000",
+      "#B22222"
+    ]
+  },
+  {
+    "name_es": "MANGLE",
+    "name_en": "MANGLE",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PUPPET",
+    "name_en": "PUPPET",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "FIVE NIGHTS AT FREDDY'S",
+    "hint2_en": "FIVE NIGHTS AT FREDDY'S",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ANNA",
+    "name_en": "ANNA",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "FROZEN",
+    "hint2_en": "FROZEN",
+    "colors": [
+      "#A855F7",
+      "#1E8449",
+      "#FFB3C7"
+    ]
+  },
+  {
+    "name_es": "ELSA",
+    "name_en": "ELSA",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "FROZEN",
+    "hint2_en": "FROZEN",
+    "colors": [
+      "#AEEBFF",
+      "#FFFFFF",
+      "#7ED6FF"
+    ]
+  },
+  {
+    "name_es": "KRISTOFF",
+    "name_en": "KRISTOFF",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "FROZEN",
+    "hint2_en": "FROZEN",
+    "colors": [
+      "#8B5A2B",
+      "#1E5EFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "OLAF",
+    "name_en": "OLAF",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "FROZEN",
+    "hint2_en": "FROZEN",
+    "colors": [
+      "#FFFFFF",
+      "#FF7A00",
+      "#7EC8E3"
+    ]
+  },
+  {
+    "name_es": "KRATOS",
+    "name_en": "KRATOS",
+    "hint1_es": "SONY",
+    "hint1_en": "SONY",
+    "hint2_es": "GOD OF WAR",
+    "hint2_en": "GOD OF WAR",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CORTANA",
+    "name_en": "CORTANA",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "HALO",
+    "hint2_en": "HALO",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "JEFE MAESTRO",
+    "name_en": "MASTER CHIEF",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "HALO",
+    "hint2_en": "HALO",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "AQUAMAN",
+    "name_en": "AQUAMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BATMAN",
+    "name_en": "BATMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CAPITAN AMERICA",
+    "name_en": "CAPTAIN AMERICA",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DAREDEVIL",
+    "name_en": "DAREDEVIL",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DARTH VADER",
+    "name_en": "DARTH VADER",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "LA GUERRA DE LAS GALAXIAS",
+    "hint2_en": "STAR WARS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DEADPOOL",
+    "name_en": "DEADPOOL",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DOCTOR DOOM",
+    "name_en": "DOCTOR DOOM",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DUENDE VERDE",
+    "name_en": "GREEN GOBLIN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FLASH",
+    "name_en": "FLASH",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GATUBELA",
+    "name_en": "CATWOMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GUASON",
+    "name_en": "JOKER",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "HULK",
+    "name_en": "HULK",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "IRON MAN",
+    "name_en": "IRON MAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LA MOLE",
+    "name_en": "THE THING",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LINTERNA VERDE",
+    "name_en": "GREEN LANTERN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MAGNETO",
+    "name_en": "MAGNETO",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MUJER MARAVILLA",
+    "name_en": "WONDER WOMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PANTERA NEGRA",
+    "name_en": "BLACK PANTHER",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SPIDERMAN",
+    "name_en": "SPIDERMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SUPERMAN",
+    "name_en": "SUPERMAN",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "DC",
+    "hint2_en": "DC",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "THANOS",
+    "name_en": "THANOS",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "THOR",
+    "name_en": "THOR",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "WOLVERINE",
+    "name_en": "WOLVERINE",
+    "hint1_es": "HEROES/VILLANOS",
+    "hint1_en": "HEROES/VILLAINS",
+    "hint2_es": "MARVEL",
+    "hint2_en": "MARVEL",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DULCE PRINCESA",
+    "name_en": "PRINCESS BUBBLEGUM",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "HORA DE AVENTURA",
+    "hint2_en": "ADVENTURE TIME",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "FINN",
+    "name_en": "FINN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "HORA DE AVENTURA",
+    "hint2_en": "ADVENTURE TIME",
+    "colors": [
+      "#FFFFFF",
+      "#1E5EFF",
+      "#5DADE2"
+    ]
+  },
+  {
+    "name_es": "JAKE",
+    "name_en": "JAKE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "HORA DE AVENTURA",
+    "hint2_en": "ADVENTURE TIME",
+    "colors": [
+      "#FFD43B",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MARCELINE",
+    "name_en": "MARCELINE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "HORA DE AVENTURA",
+    "hint2_en": "ADVENTURE TIME",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "REY HELADO",
+    "name_en": "ICE KING",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "HORA DE AVENTURA",
+    "hint2_en": "ADVENTURE TIME",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "KIRBY",
+    "name_en": "KIRBY",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "KIRBY",
+    "hint2_en": "KIRBY",
+    "colors": [
+      "#FFB3C7",
+      "#FF4D4D",
+      "#8B00FF"
+    ]
+  },
+  {
+    "name_es": "META KNIGHT",
+    "name_en": "META KNIGHT",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "KIRBY",
+    "hint2_en": "KIRBY",
+    "colors": [
+      "#1E5EFF",
+      "#C0C0C0",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "PO",
+    "name_en": "PO",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "KUNG FU PANDA",
+    "hint2_en": "KUNG FU PANDA",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "TIGRESA",
+    "name_en": "TIGRESS",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "KUNG FU PANDA",
+    "hint2_en": "KUNG FU PANDA",
+    "colors": [
+      "#FF7A00",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BELLOTA",
+    "name_en": "BUTTERCUP",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS CHICAS SUPERPODEROSAS",
+    "hint2_en": "THE POWERPUFF GIRLS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BOMBON",
+    "name_en": "BLOSSOM",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS CHICAS SUPERPODEROSAS",
+    "hint2_en": "THE POWERPUFF GIRLS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BURBUJA",
+    "name_en": "BUBBLES",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS CHICAS SUPERPODEROSAS",
+    "hint2_en": "THE POWERPUFF GIRLS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BILLY",
+    "name_en": "BILLY",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
+    "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MANDY",
+    "name_en": "MANDY",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
+    "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PURO HUESO",
+    "name_en": "PURO HUESO",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
+    "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LILO",
+    "name_en": "LILO",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LILO Y STITCH",
+    "hint2_en": "LILO & STITCH",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "STITCH",
+    "name_en": "STITCH",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LILO Y STITCH",
+    "hint2_en": "LILO & STITCH",
+    "colors": [
+      "#1E5EFF",
+      "#7ED6FF",
+      "#000080"
+    ]
+  },
+  {
+    "name_es": "PATAN",
+    "name_en": "MUTTLEY",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "LOS AUTOS LOCOS",
+    "hint2_en": "WACKY RACES",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PABLO MARMOL",
+    "name_en": "BARNEY RUBBLE",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "LOS PICAPIEDRA",
+    "hint2_en": "THE FLINTSTONES",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PEDRO PICAPIEDRA",
+    "name_en": "FRED FLINTSTONE",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "LOS PICAPIEDRA",
+    "hint2_en": "THE FLINTSTONES",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BART SIMPSON",
+    "name_en": "BART SIMPSON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#F9D71C",
+      "#FF6A00",
+      "#3A86FF"
+    ]
+  },
+  {
+    "name_es": "HOMERO SIMPSON",
+    "name_en": "HOMER SIMPSON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#F9D71C",
+      "#FFFFFF",
+      "#4DA6FF"
+    ]
+  },
+  {
+    "name_es": "LISA SIMPSON",
+    "name_en": "LISA SIMPSON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#F9D71C",
+      "#FF8C42",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MAGGIE SIMPSON",
+    "name_en": "MAGGIE SIMPSON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#7ED6FF",
+      "#F9D71C",
+      "#E0E0E0"
+    ]
+  },
+  {
+    "name_es": "MARGE SIMPSON",
+    "name_en": "MARGE SIMPSON",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#244BFF",
+      "#9EE493",
+      "#F9D71C"
+    ]
+  },
+  {
+    "name_es": "SUPER SONICO",
+    "name_en": "GEORGE JETSON",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "LOS SUPERSONICOS",
+    "hint2_en": "THE JETSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ULTRA SONICO",
+    "name_en": "JANE JETSON",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "LOS SUPERSONICOS",
+    "hint2_en": "THE JETSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BOWSER",
+    "name_en": "BOWSER",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#7FBF3F",
+      "#FF7A00",
+      "#F5E6C8"
+    ]
+  },
+  {
+    "name_es": "DONKEY KONG",
+    "name_en": "DONKEY KONG",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LUIGI",
+    "name_en": "LUIGI",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#3CB043",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MARIO",
+    "name_en": "MARIO",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#FF0000",
+      "#1E5EFF",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "PEACH",
+    "name_en": "PEACH",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#FFB3C7",
+      "#FFD43B",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "TOAD",
+    "name_en": "TOAD",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#FFFFFF",
+      "#FF0000",
+      "#1E5EFF"
+    ]
+  },
+  {
+    "name_es": "WARIO",
+    "name_en": "WARIO",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#FFD43B",
+      "#A855F7",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "YOSHI",
+    "name_en": "YOSHI",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "MARIO BROS",
+    "hint2_en": "MARIO BROS",
+    "colors": [
+      "#3CB043",
+      "#FFFFFF",
+      "#FF7A00"
+    ]
+  },
+  {
+    "name_es": "DONALD",
+    "name_en": "DONALD DUCK",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "MICKEY MOUSE",
+    "hint2_en": "MICKEY MOUSE",
+    "colors": [
+      "#FFFFFF",
+      "#1E5EFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "GOOFY",
+    "name_en": "GOOFY",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "MICKEY MOUSE",
+    "hint2_en": "MICKEY MOUSE",
+    "colors": [
+      "#000000",
+      "#FF7A00",
+      "#7ED957"
+    ]
+  },
+  {
+    "name_es": "MICKEY MOUSE",
+    "name_en": "MICKEY MOUSE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "MICKEY MOUSE",
+    "hint2_en": "MICKEY MOUSE",
+    "colors": [
+      "#000000",
+      "#FF0000",
+      "#FFE8C2"
+    ]
+  },
+  {
+    "name_es": "MINNIE MOUSE",
+    "name_en": "MINNIE MOUSE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "MICKEY MOUSE",
+    "hint2_en": "MICKEY MOUSE",
+    "colors": [
+      "#FF2D55",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PLUTO",
+    "name_en": "PLUTO",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "MICKEY MOUSE",
+    "hint2_en": "MICKEY MOUSE",
+    "colors": [
+      "#FFD43B",
+      "#000000",
+      "#7ED957"
+    ]
+  },
+  {
+    "name_es": "ALDEANO",
+    "name_en": "VILLAGER",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "ALEX",
+    "name_en": "ALEX",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CREEPER",
+    "name_en": "CREEPER",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#3CB043",
+      "#000000",
+      "#7ED957"
+    ]
+  },
+  {
+    "name_es": "ENDERMAN",
+    "name_en": "ENDERMAN",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#000000",
+      "#A855F7",
+      "#4B0082"
+    ]
+  },
+  {
+    "name_es": "ESQUELETO",
+    "name_en": "SKELETON",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "STEVE",
+    "name_en": "STEVE",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#5DADE2",
+      "#1E8449",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "ZOMBIE",
+    "name_en": "ZOMBIE",
+    "hint1_es": "MICROSOFT",
+    "hint1_en": "MICROSOFT",
+    "hint2_es": "MINECRAFT",
+    "hint2_en": "MINECRAFT",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "NARUTO",
+    "name_en": "NARUTO",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "NARUTO",
+    "hint2_en": "NARUTO",
+    "colors": [
+      "#FF7A00",
+      "#000000",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "SAKURA",
+    "name_en": "SAKURA",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "NARUTO",
+    "hint2_en": "NARUTO",
+    "colors": [
+      "#FFB3C7",
+      "#D62828",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SASUKE",
+    "name_en": "SASUKE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "NARUTO",
+    "hint2_en": "NARUTO",
+    "colors": [
+      "#1E1E1E",
+      "#A855F7",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LUFFY",
+    "name_en": "LUFFY",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ONE PIECE",
+    "hint2_en": "ONE PIECE",
+    "colors": [
+      "#FF0000",
+      "#FFD43B",
+      "#1E5EFF"
+    ]
+  },
+  {
+    "name_es": "NAMI",
+    "name_en": "NAMI",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ONE PIECE",
+    "hint2_en": "ONE PIECE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "TONY TONY CHOPPER",
+    "name_en": "TONY TONY CHOPPER",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ONE PIECE",
+    "hint2_en": "ONE PIECE",
+    "colors": [
+      "#FFB3C7",
+      "#8B5A2B",
+      "#1E5EFF"
+    ]
+  },
+  {
+    "name_es": "ZORO",
+    "name_en": "ZORO",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "ONE PIECE",
+    "hint2_en": "ONE PIECE",
+    "colors": [
+      "#3CB043",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BLASTOISE",
+    "name_en": "BLASTOISE",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BULBASAUR",
+    "name_en": "BULBASAUR",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#5DBB63",
+      "#2A9D8F",
+      "#D94F70"
+    ]
+  },
+  {
+    "name_es": "CHARIZARD",
+    "name_en": "CHARIZARD",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CHARMANDER",
+    "name_en": "CHARMANDER",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#FFF3B0",
+      "#4CAF50"
+    ]
+  },
+  {
+    "name_es": "EEVEE",
+    "name_en": "EEVEE",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GARDEVOIR",
+    "name_en": "GARDEVOIR",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GENGAR",
+    "name_en": "GENGAR",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GYARADOS",
+    "name_en": "GYARADOS",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "JIGGLYPUFF",
+    "name_en": "JIGGLYPUFF",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FFB3C7",
+      "#00BFFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "LUCARIO",
+    "name_en": "LUCARIO",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MEOWTH",
+    "name_en": "MEOWTH",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#F5E6C8",
+      "#FFD43B",
+      "#8B5A2B"
+    ]
+  },
+  {
+    "name_es": "MEWTWO",
+    "name_en": "MEWTWO",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PIKACHU",
+    "name_en": "PIKACHU",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FFD43B",
+      "#000000",
+      "#FF4D4D"
+    ]
+  },
+  {
+    "name_es": "RHYHORN",
+    "name_en": "RHYHORN",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SNORLAX",
+    "name_en": "SNORLAX",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SQUIRTLE",
+    "name_en": "SQUIRTLE",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#7ED6FF",
+      "#8B5A2B",
+      "#FFF3B0"
+    ]
+  },
+  {
+    "name_es": "VENUSAUR",
+    "name_en": "VENUSAUR",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "POKEMON",
+    "hint2_en": "POKEMON",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SHAGGY",
+    "name_en": "SHAGGY",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "SCOOBY DOO",
+    "hint2_en": "SCOOBY DOO",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "VILMA",
+    "name_en": "VELMA",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "SCOOBY DOO",
+    "hint2_en": "SCOOBY DOO",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SCOOBY-DOO",
+    "name_en": "SCOOBY-DOO",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "SCOOBY-DOO",
+    "hint2_en": "SCOOBY-DOO",
+    "colors": [
+      "#8B5A2B",
+      "#000000",
+      "#5DADE2"
+    ]
+  },
+  {
+    "name_es": "BURRO",
+    "name_en": "DONKEY",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "SHREK",
+    "hint2_en": "SHREK",
+    "colors": [
+      "#7D7D7D",
+      "#EAEAEA",
+      "#5C4033"
+    ]
+  },
+  {
+    "name_es": "FIONA",
+    "name_en": "FIONA",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "SHREK",
+    "hint2_en": "SHREK",
+    "colors": [
+      "#8BC34A",
+      "#C97B30",
+      "#3A7D44"
+    ]
+  },
+  {
+    "name_es": "GATO CON BOTAS",
+    "name_en": "PUSS IN BOOTS",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "SHREK",
+    "hint2_en": "SHREK",
+    "colors": [
+      "#FF7A00",
+      "#000000",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "SHREK",
+    "name_en": "SHREK",
+    "hint1_es": "DREAMWORKS",
+    "hint1_en": "DREAMWORKS",
+    "hint2_es": "SHREK",
+    "hint2_en": "SHREK",
+    "colors": [
+      "#7FBF3F",
+      "#8B5A2B",
+      "#EAD7B7"
+    ]
+  },
+  {
+    "name_es": "KNUCKLES",
+    "name_en": "KNUCKLES",
+    "hint1_es": "SEGA",
+    "hint1_en": "SEGA",
+    "hint2_es": "SONIC THE HEDGEHOG",
+    "hint2_en": "SONIC THE HEDGEHOG",
+    "colors": [
+      "#D62828",
+      "#FFFFFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "SHADOW",
+    "name_en": "SHADOW",
+    "hint1_es": "SEGA",
+    "hint1_en": "SEGA",
+    "hint2_es": "SONIC THE HEDGEHOG",
+    "hint2_en": "SONIC THE HEDGEHOG",
+    "colors": [
+      "#000000",
+      "#D62828",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SONIC",
+    "name_en": "SONIC",
+    "hint1_es": "SEGA",
+    "hint1_en": "SEGA",
+    "hint2_es": "SONIC THE HEDGEHOG",
+    "hint2_en": "SONIC THE HEDGEHOG",
+    "colors": [
+      "#0066FF",
+      "#F5D6B4",
+      "#FF0000"
+    ]
+  },
+  {
+    "name_es": "TAILS",
+    "name_en": "TAILS",
+    "hint1_es": "SEGA",
+    "hint1_en": "SEGA",
+    "hint2_es": "SONIC THE HEDGEHOG",
+    "hint2_en": "SONIC THE HEDGEHOG",
+    "colors": [
+      "#FFB347",
+      "#FFFFFF",
+      "#1E5EFF"
+    ]
+  },
+  {
+    "name_es": "GARY",
+    "name_en": "GARY",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "SPONGEBOB SQUAREPANTS",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PERLITA",
+    "name_en": "PEARL",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "SPONGEBOB SQUAREPANTS",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PLANKTON",
+    "name_en": "PLANKTON",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "SPONGEBOB SQUAREPANTS",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "STEVEN",
+    "name_en": "STEVEN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERS",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#FFB3C7",
+      "#FFD43B",
+      "#FF4D4D"
+    ]
+  },
+  {
+    "name_es": "AMATISTA",
+    "name_en": "AMETHYST",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERSE",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GARNET",
+    "name_en": "GARNET",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERSE",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PERIDOTO",
+    "name_en": "PERIDOT",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERSE",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PERLA",
+    "name_en": "PEARL",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERSE",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "GANONDORF",
+    "name_en": "GANONDORF",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "THE LEGEND OF ZELDA",
+    "hint2_en": "THE LEGEND OF ZELDA",
+    "colors": [
+      "#8B5A2B",
+      "#A855F7",
+      "#3CB043"
+    ]
+  },
+  {
+    "name_es": "LINK",
+    "name_en": "LINK",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "THE LEGEND OF ZELDA",
+    "hint2_en": "THE LEGEND OF ZELDA",
+    "colors": [
+      "#3CB043",
+      "#8B5A2B",
+      "#1E5EFF"
+    ]
+  },
+  {
+    "name_es": "ZELDA",
+    "name_en": "ZELDA",
+    "hint1_es": "NINTENDO",
+    "hint1_en": "NINTENDO",
+    "hint2_es": "THE LEGEND OF ZELDA",
+    "hint2_en": "THE LEGEND OF ZELDA",
+    "colors": [
+      "#FFD43B",
+      "#FFFFFF",
+      "#A855F7"
+    ]
+  },
+  {
+    "name_es": "CERDITO PORKY",
+    "name_en": "PORKY PIG",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "CORRECAMINOS",
+    "name_en": "ROAD RUNNER",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "COYOTE",
+    "name_en": "WILE E COYOTE",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "DEMONIO DE TASMANIA",
+    "name_en": "TASMANIAN DEVIL",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MARVIN EL MARCIANO",
+    "name_en": "MARVIN THE MARTIAN",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PATO LUCAS",
+    "name_en": "DAFFY DUCK",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SILVESTRE",
+    "name_en": "SYLVESTER",
+    "hint1_es": "LOONEY TUNES",
+    "hint1_en": "LOONEY TUNES",
+    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_en": "THE LOONEY TUNES SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "APU",
+    "name_en": "APU",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "BURNS",
+    "name_en": "BURNS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "EDNA KRABAPPEL",
+    "name_en": "EDNA KRABAPPEL",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "KRUSTY",
+    "name_en": "KRUSTY",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MILHOUSE",
+    "name_en": "MILHOUSE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MOE",
+    "name_en": "MOE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "NED FLANDERS",
+    "name_en": "NED FLANDERS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SKINNER",
+    "name_en": "SKINNER",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SMITHERS",
+    "name_en": "SMITHERS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "WILLIE",
+    "name_en": "WILLIE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "THE SIMPSONS",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PIZZA STEVE",
+    "name_en": "PIZZA STEVE",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "TIO GRAMPA",
+    "hint2_en": "UNCLE GRANDPA",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SR GUS",
+    "name_en": "MR GUS",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "TIO GRAMPA",
+    "hint2_en": "UNCLE GRANDPA",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "TIO GRAMPA",
+    "name_en": "UNCLE GRAMPA",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "TIO GRAMPA",
+    "hint2_en": "UNCLE GRANDPA",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "JERRY",
+    "name_en": "JERRY",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "TOM Y JERRY",
+    "hint2_en": "TOM & JERRY",
+    "colors": [
+      "#8B5A2B",
+      "#F5E6C8",
+      "#FF7A00"
+    ]
+  },
+  {
+    "name_es": "TOM",
+    "name_en": "TOM",
+    "hint1_es": "HANNA-BARBERA",
+    "hint1_en": "HANNA-BARBERA",
+    "hint2_es": "TOM Y JERRY",
+    "hint2_en": "TOM & JERRY",
+    "colors": [
+      "#7D7D7D",
+      "#FFFFFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "BUZZ LIGHTYEAR",
+    "name_en": "BUZZ LIGHTYEAR",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "TOY STORY",
+    "hint2_en": "TOY STORY",
+    "colors": [
+      "#FFFFFF",
+      "#7E57C2",
+      "#7ED957"
+    ]
+  },
+  {
+    "name_es": "JESSIE",
+    "name_en": "JESSIE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "TOY STORY",
+    "hint2_en": "TOY STORY",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF",
+      "#FFD43B"
+    ]
+  },
+  {
+    "name_es": "REX",
+    "name_en": "REX",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "TOY STORY",
+    "hint2_en": "TOY STORY",
+    "colors": [
+      "#7ED957",
+      "#FFFFFF",
+      "#4CAF50"
+    ]
+  },
+  {
+    "name_es": "SEÑOR CARA DE PAPA",
+    "name_en": "MR. POTATO HEAD",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "TOY STORY",
+    "hint2_en": "TOY STORY",
+    "colors": [
+      "#8B5A2B",
+      "#000000",
+      "#FF0000"
+    ]
+  },
+  {
+    "name_es": "WOODY",
+    "name_en": "WOODY",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "TOY STORY",
+    "hint2_en": "TOY STORY",
+    "colors": [
+      "#8B5A2B",
+      "#FFD43B",
+      "#3A86FF"
+    ]
+  },
+  {
+    "name_es": "MARGARITA",
+    "name_en": "MARGARET",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "UN SHOW MAS",
+    "hint2_en": "REGULAR SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "MORDECAI",
+    "name_en": "MORDECAI",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "UN SHOW MAS",
+    "hint2_en": "REGULAR SHOW",
+    "colors": [
+      "#5DADE2",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "MUSCULOSO",
+    "name_en": "MUSCLE MAN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "UN SHOW MAS",
+    "hint2_en": "REGULAR SHOW",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "RIGBY",
+    "name_en": "RIGBY",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "UN SHOW MAS",
+    "hint2_en": "REGULAR SHOW",
+    "colors": [
+      "#8B5A2B",
+      "#FFD43B",
+      "#5C4033"
+    ]
+  },
+  {
+    "name_es": "FLOWEY",
+    "name_en": "FLOWEY",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "UNDERTALE",
+    "hint2_en": "UNDERTALE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "PAPYRUS",
+    "name_en": "PAPYRUS",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "UNDERTALE",
+    "hint2_en": "UNDERTALE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "SANS",
+    "name_en": "SANS",
+    "hint1_es": "JUEGO INDIE",
+    "hint1_en": "INDIE GAME",
+    "hint2_es": "UNDERTALE",
+    "hint2_en": "UNDERTALE",
+    "colors": [
+      "#FF7A00",
+      "#1E5EFF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name_es": "EVA",
+    "name_en": "EVE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "WALL-E",
+    "hint2_en": "WALL-E",
+    "colors": [
+      "#FFFFFF",
+      "#1E5EFF",
+      "#000000"
+    ]
+  },
+  {
+    "name_es": "WALL-E",
+    "name_en": "WALL-E",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "WALL-E",
+    "hint2_en": "WALL-E",
+    "colors": [
+      "#FFD43B",
+      "#8B5A2B",
+      "#7D7D7D"
+    ]
+  }
+]
