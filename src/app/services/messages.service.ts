@@ -45,8 +45,8 @@ type ChromaticMessages = {
 const HOME_MESSAGES: Record<Language, HomeMessages> = {
   es: {
     languageAlt: 'Cambiar idioma a ingles',
-    introLineOne: 'Eleg\u00ed tu modo de juego',
-    introLineTwo: 'y pon\u00e9 a prueba tu ojo art\u00edstico',
+    introLineOne: 'Elige tu modo de juego',
+    introLineTwo: 'y pon a prueba tu ojo art\u00edstico',
     characterTitle: 'PERSONAJES',
     characterSubtitle: 'Adivina el personaje por sus colores',
     chromaticTitle: 'CROM\u00c1TICO',

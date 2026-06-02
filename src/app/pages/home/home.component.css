@@ -4,21 +4,22 @@
 }
 
 .div_header {
-  margin: 0 0 20px 0;
+  margin: 0;
 }
 
 .img_header {
-  width: 200px;
-  height: 100px;
-  margin: 0 0 10px 0;
+  width: 150px;
+  height: 75px;
+  margin: 0 0 5px 0;
 }
 
 .h1_header {
-  font-size: 60px;
+  font-size: 50px;
+  letter-spacing: 7px;
 }
 
 .div_language {
-  margin: 0 0 15px 0;
+  margin: 0 0 10px 0;
 }
 
 .div_spans {
@@ -28,10 +29,10 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin: 15px 0;
+  margin: 5px 0 15px 0;
 
   span {
-    font-size: 18px;
+    font-size: 16px;
     color: var(--secondary-color);
   }
 }
