@@ -1,0 +1,1 @@
+import{Ha as t,Ia as a,Na as l,va as o}from"./chunk-6HFVWNKM.js";var m=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-challenge-mode"]],decls:2,vars:0,template:function(e,c){e&1&&(t(0,"p"),l(1,"challenge-mode works!"),a())},encapsulation:2})};export{m as ChallengeModeComponent};
