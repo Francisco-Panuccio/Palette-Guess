@@ -26,7 +26,7 @@ export const routes: Routes = [
   },
   {
     path: 'loading',
-    component: LoadingComponent,
+    loadComponent: () => import('./pages/loading/loading.component').then((m) => m.LoadingComponent),
     title: 'Palette Guess - Loading'
   },
   {

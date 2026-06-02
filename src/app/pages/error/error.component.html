@@ -1,1 +1,26 @@
-<p>error works!</p>
+<div class="div_container">
+  <div
+    class="error_content"
+    [class.language_transition_out]="messages.languageTransitionState() === 'out'"
+    [class.language_transition_in]="messages.languageTransitionState() === 'in'">
+    <img class="img_error" src="images/error.png" [alt]="messages.error().imageAlt" fetchpriority="high" decoding="sync">
+
+    <section class="error_texts">
+      <h1 class="h1_error">{{ messages.error().title }}</h1>
+
+      <p class="p_error">
+        {{ messages.error().lineOne }}
+      </p>
+
+      <p class="p_error">
+        {{ messages.error().lineTwoStart }}
+        <span>{{ messages.error().lineTwoHighlight }}</span>
+      </p>
+    </section>
+
+    <div class="div_home" routerLink="/home">
+      <img class="img_button" src="icons/palette.png" [alt]="messages.error().buttonIconAlt" fetchpriority="high" decoding="sync">
+      <span>{{ messages.error().button }}</span>
+    </div>
+  </div>
+</div>

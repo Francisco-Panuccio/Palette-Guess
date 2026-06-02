@@ -1,1 +1,126 @@
-<p>chromatic-mode works!</p>
+@if (loading) {
+  <app-loading></app-loading>
+} @else {
+    <div class="div_container">
+      <div class="div_header">
+        <div class="div_language">
+          <button class="btn_language" type="button" (click)="changeLanguage()" [disabled]="messages.languageTransitioning()">
+            <img class="img_language" [src]="messages.languageIcon()" [alt]="messages.home().languageAlt">
+          </button>
+        </div>
+
+        <img class="img_header" src="images/logo.png" alt="logo">
+
+        <h1 class="h1_header">{{ messages.chromatic().title }}</h1>
+
+        <span class="span_header">{{ messages.chromatic().subtitle }}</span>
+      </div>
+
+      @if(accuracy !== null) {
+        <div class="div_result">
+          <span>{{ messages.chromatic().resultText }}: {{ accuracy }}%</span>
+
+          <div class="div_spans_result">
+            <div class="div_result_one">
+              <span class="span_result_titles obj">{{ messages.chromatic().objectiveTitle }}</span>
+              <span class="span_color objective_txt">{{ objectiveHex }}</span>
+            </div>
+
+            <div>
+              <span class="span_result_titles ycl">{{ messages.chromatic().yourTitle }}</span>
+              <span class="span_color your_color_txt">{{ yourColorHex }}</span>
+            </div>
+          </div>
+
+          <button class="btn_retry retry_two" type="button" (click)="restart()">
+            <span class="icon_span_two">&#10226;</span>
+            <span class="text_span_two">{{ messages.chromatic().retry }}</span>
+          </button>
+        </div>
+      } @else {
+        <div class="div_main">
+          <div class="div_colors">
+            <div class="div_color_objective">
+              <span class="span_title">{{ messages.chromatic().objectiveTitle }}</span>
+              <div class="div_color objective_color" [style.background]="objectiveHex"></div>
+            </div>
+
+            <div class="div_color_objective div_your_color">
+              <span class="span_title">{{ messages.chromatic().yourTitle }}</span>
+              <div class="div_color your_color" [style.background]="yourColorHex"></div>
+            </div>
+          </div>
+
+          <div class="div_selector">
+            <span class="span_selector_title">{{ messages.chromatic().selectorTitle }}</span>
+
+            <div class="div_hue div_range">
+              <div class="div_range_texts">
+                <span class="span_opt">{{ messages.chromatic().hue }}</span>
+                <span class="span_value">{{ hue }}&deg;</span>
+              </div>
+
+              <input
+                class="input_range"
+                type="range"
+                min="0"
+                max="360"
+                [value]="hue"
+                [style.--range-background]="hueBackground"
+                [style.--thumb-color]="yourColorHex"
+                (input)="onHueChange($event)"
+              >
+            </div>
+
+            <div class="div_saturation div_range">
+              <div class="div_range_texts">
+                <span class="span_opt">{{ messages.chromatic().saturation }}</span>
+                <span class="span_value">{{ saturation }}%</span>
+              </div>
+
+              <input
+                class="input_range"
+                type="range"
+                min="0"
+                max="100"
+                [value]="saturation"
+                [style.--range-background]="saturationBackground"
+                [style.--thumb-color]="yourColorHex"
+                (input)="onSaturationChange($event)"
+              >
+            </div>
+
+            <div class="div_brightness div_range">
+              <div class="div_range_texts">
+                <span class="span_opt">{{ messages.chromatic().brightness }}</span>
+                <span class="span_value">{{ brightness }}%</span>
+              </div>
+
+              <input
+                class="input_range"
+                type="range"
+                min="0"
+                max="100"
+                [value]="brightness"
+                [style.--range-background]="brightnessBackground"
+                [style.--thumb-color]="yourColorHex"
+                (input)="onBrightnessChange($event)"
+              >
+            </div>
+          </div>
+
+          <div class="div_btns">
+            <button class="btn_confirm" type="button" (click)="confirmColor()" [disabled]="confirmed">
+              <span class="icon_span_one">&#10004;</span>
+              <span class="text_span_one">{{ messages.chromatic().confirm }}</span>
+            </button>
+
+            <button class="btn_retry" type="button" (click)="restart()">
+              <span class="icon_span_two">&#10226;</span>
+              <span class="text_span_two">{{ messages.chromatic().retry }}</span>
+            </button>
+          </div>
+        </div>
+      }
+    </div>
+}

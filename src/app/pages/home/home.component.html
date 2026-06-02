@@ -1,73 +1,77 @@
-<div class="div_container">
-  <div class="div_header">
-    <div class="div_language">
-      <button class="btn_language" type="button" (click)="changeLanguage()" [disabled]="messages.languageTransitioning()">
-        <img class="img_language" [src]="messages.languageIcon()" [alt]="messages.home().languageAlt">
-      </button>
+@if(loading) {
+  <app-loading></app-loading>
+} @else {
+  <div class="div_container">
+    <div class="div_header">
+      <div class="div_language">
+        <button class="btn_language" type="button" (click)="changeLanguage()" [disabled]="messages.languageTransitioning()">
+          <img class="img_language" [src]="messages.languageIcon()" [alt]="messages.home().languageAlt">
+        </button>
+      </div>
+
+      <img class="img_header" src="images/logo.png" alt="logo">
+
+      <h1 class="h1_header">PALETTE GUESS</h1>
+
+      <div
+        class="div_spans"
+        [class.language_transition_out]="messages.languageTransitionState() === 'out'"
+        [class.language_transition_in]="messages.languageTransitionState() === 'in'"
+      >
+        <span>{{ messages.home().introLineOne }}</span>
+        <span>{{ messages.home().introLineTwo }}</span>
+      </div>
     </div>
 
-    <img class="img_header" src="images/logo.png" alt="logo">
-
-    <h1 class="h1_header">PALETTE GUESS</h1>
-
     <div
-      class="div_spans"
+      class="div_main"
       [class.language_transition_out]="messages.languageTransitionState() === 'out'"
       [class.language_transition_in]="messages.languageTransitionState() === 'in'"
     >
-      <span>{{ messages.home().introLineOne }}</span>
-      <span>{{ messages.home().introLineTwo }}</span>
-    </div>
-  </div>
+      <div class="div_mode mode_character">
+        <div class="div_mode_image character">
+          <img class="img_mode" src="images/characters_mode.png" alt="character mode">
+        </div>
 
-  <div
-    class="div_main"
-    [class.language_transition_out]="messages.languageTransitionState() === 'out'"
-    [class.language_transition_in]="messages.languageTransitionState() === 'in'"
-  >
-    <div class="div_mode mode_character">
-      <div class="div_mode_image character">
-        <img class="img_mode" src="images/characters_mode.png" alt="character mode">
+        <div class="div_mode_texts">
+          <span class="span_mode_title">{{ messages.home().characterTitle }}</span>
+          <span class="span_mode_subtitle">{{ messages.home().characterSubtitle }}</span>
+        </div>
+
+        <div class="div_mode_btn">
+          <span class="span_character"></span>
+        </div>
       </div>
 
-      <div class="div_mode_texts">
-        <span class="span_mode_title">{{ messages.home().characterTitle }}</span>
-        <span class="span_mode_subtitle">{{ messages.home().characterSubtitle }}</span>
+      <div class="div_mode mode_chromatic" routerLink="/chromatic-mode">
+        <div class="div_mode_image chromatic">
+          <img class="img_mode" src="images/chromatic_mode.png" alt="chromatic mode">
+        </div>
+
+        <div class="div_mode_texts">
+          <span class="span_mode_title">{{ messages.home().chromaticTitle }}</span>
+          <span class="span_mode_subtitle">{{ messages.home().chromaticSubtitle }}</span>
+        </div>
+
+        <div class="div_mode_btn">
+          <span class="span_chromatic"></span>
+        </div>
       </div>
 
-      <div class="div_mode_btn">
-        <span class="span_character"></span>
-      </div>
-    </div>
+      <div class="div_mode mode_challenge">
+        <div class="div_mode_image challenge">
+          <img class="img_mode" src="images/challenge_mode.png" alt="challenge mode">
+        </div>
 
-    <div class="div_mode mode_chromatic">
-      <div class="div_mode_image chromatic">
-        <img class="img_mode" src="images/chromatic_mode.png" alt="chromatic mode">
-      </div>
+        <div class="div_mode_texts">
+          <span class="span_mode_title">{{ messages.home().challengeTitle }}</span>
+          <span class="span_mode_subtitle">{{ messages.home().challengeSubtitle }}</span>
+        </div>
 
-      <div class="div_mode_texts">
-        <span class="span_mode_title">{{ messages.home().chromaticTitle }}</span>
-        <span class="span_mode_subtitle">{{ messages.home().chromaticSubtitle }}</span>
-      </div>
-
-      <div class="div_mode_btn">
-        <span class="span_chromatic"></span>
-      </div>
-    </div>
-
-    <div class="div_mode mode_challenge">
-      <div class="div_mode_image challenge">
-        <img class="img_mode" src="images/challenge_mode.png" alt="challenge mode">
-      </div>
-
-      <div class="div_mode_texts">
-        <span class="span_mode_title">{{ messages.home().challengeTitle }}</span>
-        <span class="span_mode_subtitle">{{ messages.home().challengeSubtitle }}</span>
-      </div>
-
-      <div class="div_mode_btn">
-        <span class="span_challenge"></span>
+        <div class="div_mode_btn">
+          <span class="span_challenge"></span>
+        </div>
       </div>
     </div>
   </div>
-</div>
+}

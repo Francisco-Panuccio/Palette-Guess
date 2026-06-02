@@ -1,0 +1,214 @@
+.loading_container {
+  justify-content: center;
+  background-position: bottom 0px left -162px;
+}
+
+.loader {
+  --loader-size: min(76vw, 360px);
+  --dot-size: calc(var(--loader-size) * 0.14);
+  --orbit-radius: calc(var(--loader-size) * 0.34);
+  --spin-duration: 1.6s;
+  position: relative;
+  width: var(--loader-size);
+  height: var(--loader-size);
+}
+
+.paint_dots {
+  position: absolute;
+  inset: 0;
+}
+
+.paint_dot {
+  --angle: 0deg;
+  --dot-color: #e5e1d8;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: var(--dot-size);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 32% 28%, rgb(255 255 255 / 0.38), transparent 32%),
+    linear-gradient(180deg, color-mix(in srgb, var(--dot-color), white 18%), var(--dot-color));
+  box-shadow:
+    0 7px 0 color-mix(in srgb, var(--dot-color), black 15%),
+    0 13px 18px rgb(66 62 64 / 0.15);
+  opacity: 0.48;
+  transform:
+    translate(-50%, -50%)
+    rotate(var(--angle))
+    translateY(calc(var(--orbit-radius) * -1))
+    rotate(calc(var(--angle) * -1));
+  animation: dot-light var(--spin-duration) linear infinite;
+}
+
+.paint_dot:nth-child(1) {
+  --angle: 300deg;
+  animation-delay: calc(var(--spin-duration) * 0.25);
+}
+
+.paint_dot:nth-child(2) {
+  --angle: 330deg;
+  animation-delay: calc(var(--spin-duration) * 0.1667);
+}
+
+.paint_dot:nth-child(3) {
+  --angle: 0deg;
+  animation-delay: calc(var(--spin-duration) * 0.0833);
+}
+
+.paint_dot:nth-child(4) {
+  --angle: 30deg;
+  animation-delay: 0s;
+}
+
+.paint_dot:nth-child(5) {
+  --angle: 60deg;
+  animation-delay: calc(var(--spin-duration) * 0.9167);
+}
+
+.paint_dot:nth-child(6) {
+  --angle: 90deg;
+  animation-delay: calc(var(--spin-duration) * 0.8333);
+}
+
+.paint_dot:nth-child(7) {
+  --angle: 120deg;
+  animation-delay: calc(var(--spin-duration) * 0.75);
+}
+
+.paint_dot:nth-child(8) {
+  --angle: 150deg;
+  animation-delay: calc(var(--spin-duration) * 0.6667);
+}
+
+.paint_dot:nth-child(9) {
+  --angle: 180deg;
+  animation-delay: calc(var(--spin-duration) * 0.5833);
+}
+
+.paint_dot:nth-child(10) {
+  --angle: 210deg;
+  animation-delay: calc(var(--spin-duration) * 0.5);
+}
+
+.paint_dot:nth-child(11) {
+  --angle: 240deg;
+  animation-delay: calc(var(--spin-duration) * 0.4167);
+}
+
+.paint_dot:nth-child(12) {
+  --angle: 270deg;
+  animation-delay: calc(var(--spin-duration) * 0.3333);
+}
+
+.dot_red {
+  --dot-color: #ff5d72;
+}
+
+.dot_orange {
+  --dot-color: #ff7838;
+}
+
+.dot_yellow {
+  --dot-color: #ffc62e;
+}
+
+.dot_green {
+  --dot-color: #63cf59;
+}
+
+.dot_cyan {
+  --dot-color: #29c2bd;
+}
+
+.dot_lavender {
+  --dot-color: #8f98e6;
+}
+
+.dot_blue {
+  --dot-color: #635ef1;
+}
+
+.dot_purple {
+  --dot-color: #9e47d5;
+}
+
+.dot_pink {
+  --dot-color: #f65c72;
+}
+
+.dot_mint {
+  --dot-color: #8edcc4;
+}
+
+.dot_cream {
+  --dot-color: #e7dfbf;
+}
+
+.dot_peach {
+  --dot-color: #f2b18c;
+}
+
+.brush_orbit {
+  position: absolute;
+  inset: 0;
+  animation: brush-spin var(--spin-duration) linear infinite;
+}
+
+.brush {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: calc(var(--loader-size) * 0.23);
+  height: auto;
+  transform: translate(-50%, -78%) rotate(38deg);
+  transform-origin: 50% 78%;
+  filter: drop-shadow(0 5px 8px rgb(0 0 0 / 0.18));
+}
+
+@keyframes brush-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+@keyframes dot-light {
+  0% {
+    filter: saturate(1.35) brightness(1.16);
+    opacity: 1;
+    transform:
+      translate(-50%, -50%)
+      rotate(var(--angle))
+      translateY(calc(var(--orbit-radius) * -1))
+      rotate(calc(var(--angle) * -1))
+      scale(1.08);
+  }
+
+  10% {
+    filter: saturate(1.05) brightness(1.03);
+    opacity: 0.76;
+    transform:
+      translate(-50%, -50%)
+      rotate(var(--angle))
+      translateY(calc(var(--orbit-radius) * -1))
+      rotate(calc(var(--angle) * -1))
+      scale(1.02);
+  }
+
+  24%,
+  100% {
+    filter: saturate(0.55) brightness(0.95);
+    opacity: 0.42;
+    transform:
+      translate(-50%, -50%)
+      rotate(var(--angle))
+      translateY(calc(var(--orbit-radius) * -1))
+      rotate(calc(var(--angle) * -1))
+      scale(1);
+  }
+}

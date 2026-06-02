@@ -87,3 +87,104 @@ app-root {
 button {
   cursor: pointer;
 }
+
+.div_header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.div_language {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.btn_language {
+  background: none;
+  border: 2px solid var(--secondary-color);
+  outline: none;
+  padding: 0;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  cursor: pointer;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.btn_language:hover {
+  box-shadow: 0 2px 8px rgb(8 17 41 / 0.18);
+  transform: translateY(-1px);
+}
+
+.btn_language:active {
+  transform: scale(0.96);
+}
+
+.img_language {
+  border-radius: 3px;
+  width: 100%;
+  height: 100%;
+  display: block;
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.h1_header {
+  margin: 0;
+  color: transparent;
+  background: linear-gradient(90deg,
+      #f04f45 0%,
+      #f2a63a 9%,
+      #f2d14f 18%,
+      #67b85f 27%,
+      #35a8a4 36%,
+      #3f84d8 45%,
+      #7557c8 54%,
+      #d85aa7 63%,
+      #e85d75 72%,
+      #ef8f3d 81%,
+      #4fbf7f 90%,
+      #4c9de8 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  line-height: 1;
+  text-shadow: 0 2px 0 rgb(8 17 41 / 0.12);
+  width: 100%;
+}
+
+.language_transition_out {
+  animation: language-out 170ms ease both;
+}
+
+.language_transition_in {
+  animation: language-in 250ms ease both;
+}
+
+@keyframes language-out {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(4px) scale(0.99);
+  }
+}
+
+@keyframes language-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.99);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
