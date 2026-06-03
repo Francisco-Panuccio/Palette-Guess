@@ -29,44 +29,18 @@ html {
 }
 
 body {
-  min-height: 100vh;
+  min-height: 100dvh;
   margin: 0;
   color: var(--primary-color);
   background-color: var(--background);
-  background-image:
-    radial-gradient(circle at 20% 30%, var(--background-noise) 0 1px, transparent 1px),
-    radial-gradient(circle at 80% 70%, var(--background-noise) 0 1px, transparent 1px),
-    linear-gradient(90deg, var(--background-fiber) 1px, transparent 1px),
-    linear-gradient(0deg, rgb(0 0 0 / 0.018) 1px, transparent 1px);
-  background-size:
-    9px 9px,
-    13px 13px,
-    42px 42px,
-    38px 38px;
-  background-position:
-    0 0,
-    5px 7px,
-    0 0,
-    11px 3px;
-}
-
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background-image:
-    repeating-linear-gradient(100deg, rgb(255 255 255 / 0.06) 0 1px, transparent 1px 5px),
-    repeating-linear-gradient(8deg, rgb(40 28 12 / 0.025) 0 1px, transparent 1px 7px);
-  opacity: 0.75;
+  overflow-x: hidden;
 }
 
 app-root {
   display: block;
   position: relative;
   z-index: 1;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 .div_container {
@@ -78,10 +52,11 @@ app-root {
   max-width: 1000px;
   margin: 0 auto;
   padding: 16px;
-  height: 100vh;
+  height: 100dvh;
   position: relative;
   z-index: 3;
   background-image: url('../public/images/background_one.png');
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -103,7 +78,6 @@ button {
 
 .div_language {
   display: flex;
-  justify-content: flex-start;
   align-items: center;
   width: 100%;
 }
@@ -127,6 +101,19 @@ button {
 
 .btn_language:active {
   transform: scale(0.96);
+}
+
+.btn_back {
+  width: 30px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  border: 2px solid var(--secondary-color);
+  background-image: url("../public/icons/back.png");
+  background-position: center -9px;
+  background-size: 175%;
+  background-repeat: no-repeat;
 }
 
 .img_language {

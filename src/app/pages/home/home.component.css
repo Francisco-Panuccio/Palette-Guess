@@ -1,6 +1,5 @@
 .div_container {
   justify-content: start;
-  background-position: center;
 }
 
 .div_header {
@@ -19,6 +18,7 @@
 }
 
 .div_language {
+  justify-content: flex-start;
   margin: 0 0 10px 0;
 }
 

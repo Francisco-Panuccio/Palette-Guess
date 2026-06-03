@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { MessagesService } from '../../services/messages.service';
 import { ImagePreloadService } from '../../services/image-preload.service';
 import { LoadingComponent } from '../loading/loading.component';
+import { RouterLink } from '@angular/router';
 
 type RgbColor = {
   r: number;
@@ -11,7 +12,7 @@ type RgbColor = {
 
 @Component({
   selector: 'app-chromatic-mode',
-  imports: [LoadingComponent],
+  imports: [LoadingComponent, RouterLink],
   templateUrl: './chromatic-mode.component.html',
   styleUrl: './chromatic-mode.component.css'
 })

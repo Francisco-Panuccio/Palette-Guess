@@ -9,7 +9,5 @@ import { MessagesService } from '../../services/messages.service';
   styleUrl: './error.component.css'
 })
 export class ErrorComponent {
-
   constructor(protected readonly messages: MessagesService) { }
-
 }

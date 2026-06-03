@@ -5,6 +5,7 @@ export const PRIORITY_IMAGE_PATHS = [
 
 export const IMAGE_PATHS = [
   'favicon.png',
+  'icons/back.png',
   'icons/brush.png',
   'icons/english.png',
   'icons/palette.png',

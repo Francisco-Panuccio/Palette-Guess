@@ -7,6 +7,8 @@
           <button class="btn_language" type="button" (click)="changeLanguage()" [disabled]="messages.languageTransitioning()">
             <img class="img_language" [src]="messages.languageIcon()" [alt]="messages.home().languageAlt">
           </button>
+
+          <button class="btn_back" type="button" routerLink="/home"></button>
         </div>
 
         <img class="img_header" src="images/logo.png" alt="logo">
