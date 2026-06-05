@@ -42,6 +42,23 @@ type ChromaticMessages = {
   perfectText: string;
 };
 
+type CharactersMessages = {
+  title: string;
+  subtitle: string;
+  categoryTitle: string;
+  categorySubtitle: string;
+  brands: string;
+  cartoons: string;
+  countries: string;
+  hintOne: string;
+  hintTwo: string;
+  wrongWord: string;
+  winTitle: string;
+  winText: string;
+  nextWord: string;
+  loadingCategory: string;
+};
+
 const HOME_MESSAGES: Record<Language, HomeMessages> = {
   es: {
     languageAlt: 'Cambiar idioma a ingles',
@@ -125,6 +142,41 @@ const CHROMATIC_MESSAGES: Record<Language, ChromaticMessages> = {
   }
 };
 
+const CHARACTERS_MESSAGES: Record<Language, CharactersMessages> = {
+  es: {
+    title: 'PERSONAJES',
+    subtitle: 'Adivina por su paleta de colores',
+    categoryTitle: 'Elige una categor\u00eda',
+    categorySubtitle: 'Selecciona qu\u00e9 paletas quieres adivinar',
+    brands: 'MARCAS',
+    cartoons: 'PERSONAJES',
+    countries: 'PA\u00cdSES',
+    hintOne: 'PISTA 1',
+    hintTwo: 'PISTA 2',
+    wrongWord: 'Palabra equivocada',
+    winTitle: 'Ganaste',
+    winText: 'Adivinaste la paleta correctamente',
+    nextWord: 'SIGUIENTE',
+    loadingCategory: 'Cargando categor\u00eda'
+  },
+  en: {
+    title: 'CHARACTERS',
+    subtitle: 'Guess by the color palette',
+    categoryTitle: 'Choose a category',
+    categorySubtitle: 'Select which palettes you want to guess',
+    brands: 'BRANDS',
+    cartoons: 'CARTOONS',
+    countries: 'COUNTRIES',
+    hintOne: 'HINT 1',
+    hintTwo: 'HINT 2',
+    wrongWord: 'Wrong word',
+    winTitle: 'You won',
+    winText: 'You guessed the palette correctly',
+    nextWord: 'NEXT',
+    loadingCategory: 'Loading category'
+  }
+};
+
 @Injectable({
   providedIn: 'root'
 })
@@ -138,6 +190,7 @@ export class MessagesService {
   readonly home = computed(() => HOME_MESSAGES[this.languageState()]);
   readonly error = computed(() => ERROR_MESSAGES[this.languageState()]);
   readonly chromatic = computed(() => CHROMATIC_MESSAGES[this.languageState()]);
+  readonly characters = computed(() => CHARACTERS_MESSAGES[this.languageState()]);
   readonly languageIcon = computed(() => `icons/${this.languageState() === 'es' ? 'spanish' : 'english'}.png`);
   readonly languageTransitionState = this.transitionState.asReadonly();
   readonly languageTransitioning = computed(() => this.transitionState() !== 'idle');

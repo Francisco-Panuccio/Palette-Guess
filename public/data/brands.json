@@ -7,8 +7,8 @@
     "hint2_es": "HAMBURGUESA",
     "hint2_en": "BURGER",
     "colors": [
-      "#FFC72C",
-      "#DA291C",
+      "#FFC700",
+      "#E50102",
       "#FFFFFF"
     ]
   },
@@ -85,9 +85,9 @@
     "hint2_es": "HELADO",
     "hint2_en": "ICE CREAM",
     "colors": [
-      "#00AEEF",
+      "#0F049A",
       "#FFFFFF",
-      "#0057A8"
+      "#D22419"
     ]
   },
   {
@@ -105,7 +105,7 @@
   },
   {
     "name_es": "COCA COLA",
-    "name_en": "COCA-COLA",
+    "name_en": "COCA COLA",
     "hint1_es": "BEBIDA",
     "hint1_en": "DRINK",
     "hint2_es": "GASEOSA",
@@ -137,9 +137,9 @@
     "hint2_es": "GASEOSA",
     "hint2_en": "SODA",
     "colors": [
-      "#00A651",
-      "#F7FF00",
-      "#FFFFFF"
+      "#009F49",
+      "#F5E100",
+      "#F6F6F6"
     ]
   },
   {
@@ -165,7 +165,7 @@
     "colors": [
       "#001489",
       "#D50032",
-      "#C0C0C0"
+      "#F7C501"
     ]
   },
   {
@@ -176,9 +176,9 @@
     "hint2_es": "ENERGETICA",
     "hint2_en": "ENERGY DRINK",
     "colors": [
-      "#6CC24A",
-      "#000000",
-      "#FFFFFF"
+      "#10A143",
+      "#CDD633",
+      "#040006"
     ]
   },
   {
@@ -217,7 +217,7 @@
     "colors": [
       "#003478",
       "#FFFFFF",
-      "#000000"
+      "#CCCDCF"
     ]
   },
   {
@@ -228,9 +228,9 @@
     "hint2_es": "COROLLA",
     "hint2_en": "COROLLA",
     "colors": [
-      "#EB0A1E",
-      "#FFFFFF",
-      "#000000"
+      "#B7BABA",
+      "#F4F4F4",
+      "#CE121A"
     ]
   },
   {
@@ -241,9 +241,9 @@
     "hint2_es": "CIVIC",
     "hint2_en": "CIVIC",
     "colors": [
-      "#E40521",
-      "#000000",
-      "#FFFFFF"
+      "#969696",
+      "#ECECEC",
+      "#E3192B"
     ]
   },
   {
@@ -254,22 +254,22 @@
     "hint2_es": "M3",
     "hint2_en": "M3",
     "colors": [
-      "#0066B1",
-      "#FFFFFF",
-      "#000000"
+      "#000000",
+      "#F1F1F1",
+      "#4BA1CC"
     ]
   },
   {
     "name_es": "MERCEDES BENZ",
-    "name_en": "MERCEDES-BENZ",
+    "name_en": "MERCEDES BENZ",
     "hint1_es": "AUTOMOVIL",
     "hint1_en": "AUTOMOBILE",
     "hint2_es": "CLASE C",
     "hint2_en": "C CLASS",
     "colors": [
-      "#C0C0C0",
-      "#000000",
-      "#FFFFFF"
+      "#1E191A",
+      "#858383",
+      "#1E191A"
     ]
   },
   {
@@ -293,9 +293,9 @@
     "hint2_es": "F40",
     "hint2_en": "F40",
     "colors": [
-      "#FF2800",
-      "#000000",
-      "#FFD700"
+      "#208F57",
+      "#E41A21",
+      "#F6E901"
     ]
   },
   {
@@ -306,9 +306,9 @@
     "hint2_es": "AVENTADOR",
     "hint2_en": "AVENTADOR",
     "colors": [
-      "#D4AF37",
-      "#000000",
-      "#FFFFFF"
+      "#EFC65A",
+      "#030303",
+      "#EFD79A"
     ]
   },
   {
@@ -319,22 +319,9 @@
     "hint2_es": "911",
     "hint2_en": "911",
     "colors": [
-      "#000000",
-      "#B12B28",
-      "#D4AF37"
-    ]
-  },
-  {
-    "name_es": "TESLA",
-    "name_en": "TESLA",
-    "hint1_es": "AUTOMOVIL",
-    "hint1_en": "AUTOMOBILE",
-    "hint2_es": "MODEL S",
-    "hint2_en": "MODEL S",
-    "colors": [
-      "#CC0000",
-      "#FFFFFF",
-      "#000000"
+      "#FADFA8",
+      "#020202",
+      "#A81C30"
     ]
   },
   {
@@ -345,9 +332,9 @@
     "hint2_es": "GOLF",
     "hint2_en": "GOLF",
     "colors": [
-      "#001E50",
-      "#FFFFFF",
-      "#000000"
+      "#5B92C9",
+      "#F4FDF5",
+      "#5B92C9"
     ]
   },
   {
@@ -358,9 +345,9 @@
     "hint2_es": "CLIO",
     "hint2_en": "CLIO",
     "colors": [
-      "#FFCC00",
-      "#000000",
-      "#FFFFFF"
+      "#FDB60D",
+      "#C6C5C1",
+      "#000000"
     ]
   },
   {
@@ -371,9 +358,9 @@
     "hint2_es": "UNO",
     "hint2_en": "UNO",
     "colors": [
-      "#9B0000",
-      "#FFFFFF",
-      "#000000"
+      "#8D8D93",
+      "#AA082D",
+      "#BEBFC5"
     ]
   },
   {
@@ -384,22 +371,9 @@
     "hint2_es": "SENTRA",
     "hint2_en": "SENTRA",
     "colors": [
-      "#C3002F",
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "APPLE",
-    "name_en": "APPLE",
-    "hint1_es": "TECNOLOGIA",
-    "hint1_en": "TECHNOLOGY",
-    "hint2_es": "IPHONE",
-    "hint2_en": "IPHONE",
-    "colors": [
-      "#A2AAAD",
-      "#000000",
-      "#FFFFFF"
+      "#B8B8B8",
+      "#444444",
+      "#000000"
     ]
   },
   {
@@ -410,9 +384,9 @@
     "hint2_es": "GALAXY",
     "hint2_en": "GALAXY",
     "colors": [
-      "#1428A0",
-      "#FFFFFF",
-      "#000000"
+      "#004DA3",
+      "#FEFEFE",
+      "#004DA3"
     ]
   },
   {
@@ -423,35 +397,9 @@
     "hint2_es": "REDMI",
     "hint2_en": "REDMI",
     "colors": [
-      "#FF6900",
-      "#FFFFFF",
-      "#000000"
-    ]
-  },
-  {
-    "name_es": "MOTOROLA",
-    "name_en": "MOTOROLA",
-    "hint1_es": "TECNOLOGIA",
-    "hint1_en": "TECHNOLOGY",
-    "hint2_es": "MOTO G75",
-    "hint2_en": "MOTO G75",
-    "colors": [
-      "#5C2D91",
-      "#FFFFFF",
-      "#000000"
-    ]
-  },
-  {
-    "name_es": "SONY",
-    "name_en": "SONY",
-    "hint1_es": "TECNOLOGIA",
-    "hint1_en": "TECHNOLOGY",
-    "hint2_es": "PLAYSTATION 5",
-    "hint2_en": "PLAYSTATION 5",
-    "colors": [
-      "#003791",
-      "#FFFFFF",
-      "#000000"
+      "#F76300",
+      "#F7F7F7",
+      "#F76300"
     ]
   },
   {
@@ -462,9 +410,9 @@
     "hint2_es": "XBOX SERIES X",
     "hint2_en": "XBOX SERIES X",
     "colors": [
-      "#7FBA00",
-      "#FFFFFF",
-      "#000000"
+      "#EB5023",
+      "#7CB605",
+      "#04A0E8"
     ]
   },
   {
@@ -504,19 +452,6 @@
       "#1877F2",
       "#FFFFFF",
       "#000000"
-    ]
-  },
-  {
-    "name_es": "X",
-    "name_en": "X",
-    "hint1_es": "RED SOCIAL",
-    "hint1_en": "SOCIAL MEDIA",
-    "hint2_es": "TUIT",
-    "hint2_en": "TWEET",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#1DA1F2"
     ]
   },
   {
@@ -566,9 +501,9 @@
     "hint2_es": "CHAT DE VOZ",
     "hint2_en": "VOICE CHAT",
     "colors": [
-      "#5865F2",
-      "#FFFFFF",
-      "#000000"
+      "#5461E3",
+      "#F7F7F7",
+      "#5461E3"
     ]
   },
   {
@@ -579,9 +514,9 @@
     "hint2_es": "MENSAJERIA",
     "hint2_en": "MESSAGING",
     "colors": [
-      "#25D366",
-      "#FFFFFF",
-      "#000000"
+      "#54EB70",
+      "#F6F7F6",
+      "#54EB70"
     ]
   },
   {
@@ -592,9 +527,9 @@
     "hint2_es": "HISTORIAS",
     "hint2_en": "STORIES",
     "colors": [
-      "#FFFC00",
       "#000000",
-      "#FFFFFF"
+      "#F7EB0A",
+      "#F7F7F7"
     ]
   },
   {
@@ -605,48 +540,9 @@
     "hint2_es": "TRABAJO",
     "hint2_en": "WORK",
     "colors": [
-      "#0A66C2",
-      "#FFFFFF",
-      "#000000"
-    ]
-  },
-  {
-    "name_es": "NIKE",
-    "name_en": "NIKE",
-    "hint1_es": "CALZADO",
-    "hint1_en": "FOOTWEAR",
-    "hint2_es": "AIR FORCE",
-    "hint2_en": "AIR FORCE",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#F5F5F5"
-    ]
-  },
-  {
-    "name_es": "ADIDAS",
-    "name_en": "ADIDAS",
-    "hint1_es": "CALZADO",
-    "hint1_en": "FOOTWEAR",
-    "hint2_es": "SUPERSTAR",
-    "hint2_en": "SUPERSTAR",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#C0C0C0"
-    ]
-  },
-  {
-    "name_es": "PUMA",
-    "name_en": "PUMA",
-    "hint1_es": "CALZADO",
-    "hint1_en": "FOOTWEAR",
-    "hint2_es": "SUEDE",
-    "hint2_en": "SUEDE",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#D50032"
+      "#007AB5",
+      "#F7F7F7",
+      "#007AB5"
     ]
   },
   {
@@ -657,9 +553,9 @@
     "hint2_es": "CLASSIC",
     "hint2_en": "CLASSIC",
     "colors": [
-      "#003DA5",
-      "#FFFFFF",
-      "#E4002B"
+      "#3E4095",
+      "#EE3237",
+      "#363334"
     ]
   },
   {
@@ -689,19 +585,6 @@
     ]
   },
   {
-    "name_es": "CONVERSE",
-    "name_en": "CONVERSE",
-    "hint1_es": "CALZADO",
-    "hint1_en": "FOOTWEAR",
-    "hint2_es": "ALL STAR",
-    "hint2_en": "ALL STAR",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#E31837"
-    ]
-  },
-  {
     "name_es": "CROCS",
     "name_en": "CROCS",
     "hint1_es": "CALZADO",
@@ -709,9 +592,9 @@
     "hint2_es": "CLOG",
     "hint2_en": "CLOG",
     "colors": [
-      "#78BE20",
-      "#FFFFFF",
-      "#000000"
+      "#42B200",
+      "#F6F6F6",
+      "#42B200"
     ]
   },
   {
@@ -725,19 +608,6 @@
       "#C41230",
       "#FFFFFF",
       "#000000"
-    ]
-  },
-  {
-    "name_es": "ZARA",
-    "name_en": "ZARA",
-    "hint1_es": "ROPA",
-    "hint1_en": "CLOTHING",
-    "hint2_es": "MODA",
-    "hint2_en": "FASHION",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#C0C0C0"
     ]
   },
   {
@@ -761,35 +631,9 @@
     "hint2_es": "LUJO",
     "hint2_en": "LUXURY",
     "colors": [
-      "#0B3B2E",
-      "#B9975B",
-      "#A71930"
-    ]
-  },
-  {
-    "name_es": "PRADA",
-    "name_en": "PRADA",
-    "hint1_es": "ROPA",
-    "hint1_en": "CLOTHING",
-    "hint2_es": "LUJO",
-    "hint2_en": "LUXURY",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#C0C0C0"
-    ]
-  },
-  {
-    "name_es": "LOUIS VUITTON",
-    "name_en": "LOUIS VUITTON",
-    "hint1_es": "ROPA",
-    "hint1_en": "CLOTHING",
-    "hint2_es": "LUJO",
-    "hint2_en": "LUXURY",
-    "colors": [
-      "#4B3621",
-      "#D4AF37",
-      "#000000"
+      "#E6BC59",
+      "#006336",
+      "#B91D2C"
     ]
   },
   {
@@ -800,9 +644,9 @@
     "hint2_es": "CHOMBA",
     "hint2_en": "POLO SHIRT",
     "colors": [
-      "#006A4E",
-      "#FFFFFF",
-      "#E30613"
+      "#014F2B",
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -813,9 +657,9 @@
     "hint2_es": "CHOMBA",
     "hint2_en": "POLO SHIRT",
     "colors": [
-      "#002868",
-      "#FFFFFF",
-      "#BF0A30"
+      "#0C1A47",
+      "#F7F7F7",
+      "#CB0527"
     ]
   },
   {
@@ -829,19 +673,6 @@
       "#041E42",
       "#FFFFFF",
       "#000000"
-    ]
-  },
-  {
-    "name_es": "CHANEL",
-    "name_en": "CHANEL",
-    "hint1_es": "PERFUMERIA",
-    "hint1_en": "PERFUMERY",
-    "hint2_es": "PERFUME",
-    "hint2_en": "PERFUME",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#C0C0C0"
     ]
   },
   {
@@ -871,19 +702,6 @@
     ]
   },
   {
-    "name_es": "PACO RABANNE",
-    "name_en": "PACO RABANNE",
-    "hint1_es": "PERFUMERIA",
-    "hint1_en": "PERFUMERY",
-    "hint2_es": "PERFUME",
-    "hint2_en": "PERFUME",
-    "colors": [
-      "#C0C0C0",
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
     "name_es": "CAROLINA HERRERA",
     "name_en": "CAROLINA HERRERA",
     "hint1_es": "PERFUMERIA",
@@ -904,35 +722,9 @@
     "hint2_es": "CREMA",
     "hint2_en": "CREAM",
     "colors": [
-      "#0032A0",
-      "#FFFFFF",
+      "#00309B",
+      "#F7F7F7",
       "#000000"
-    ]
-  },
-  {
-    "name_es": "LOREAL",
-    "name_en": "L'OREAL",
-    "hint1_es": "PERFUMERIA",
-    "hint1_en": "PERFUMERY",
-    "hint2_es": "MAQUILLAJE",
-    "hint2_en": "MAKEUP",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#D4AF37"
-    ]
-  },
-  {
-    "name_es": "MAYBELLINE",
-    "name_en": "MAYBELLINE",
-    "hint1_es": "PERFUMERIA",
-    "hint1_en": "PERFUMERY",
-    "hint2_es": "MAQUILLAJE",
-    "hint2_en": "MAKEUP",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#FF69B4"
     ]
   },
   {
@@ -943,22 +735,9 @@
     "hint2_es": "JABON",
     "hint2_en": "SOAP",
     "colors": [
-      "#1C75BC",
+      "#003C7A",
       "#FFFFFF",
       "#D4AF37"
-    ]
-  },
-  {
-    "name_es": "AXE",
-    "name_en": "AXE",
-    "hint1_es": "PERFUMERIA",
-    "hint1_en": "PERFUMERY",
-    "hint2_es": "DESODORANTE",
-    "hint2_en": "DEODORANT",
-    "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#C0C0C0"
     ]
   },
   {
@@ -969,7 +748,7 @@
     "hint2_es": "DESODORANTE",
     "hint2_en": "DEODORANT",
     "colors": [
-      "#003DA5",
+      "#1F2A51",
       "#FFFFFF",
       "#000000"
     ]
@@ -1015,7 +794,7 @@
   },
   {
     "name_es": "ORAL B",
-    "name_en": "ORAL-B",
+    "name_en": "ORAL B",
     "hint1_es": "PERFUMERIA",
     "hint1_en": "PERFUMERY",
     "hint2_es": "CEPILLO DENTAL",
@@ -1073,9 +852,9 @@
     "hint2_es": "LIMPIADOR",
     "hint2_en": "CLEANER",
     "colors": [
-      "#00A651",
-      "#FFFFFF",
-      "#FFD700"
+      "#096B37",
+      "#F7F7F7",
+      "#F60002"
     ]
   },
   {
@@ -1086,9 +865,9 @@
     "hint2_es": "LAVANDINA",
     "hint2_en": "BLEACH",
     "colors": [
-      "#0066CC",
-      "#FFFFFF",
-      "#FFD700"
+      "#04468B",
+      "#E0030A",
+      "#F6F6F6"
     ]
   },
   {
@@ -1099,9 +878,9 @@
     "hint2_es": "DESINFECTANTE",
     "hint2_en": "DISINFECTANT",
     "colors": [
-      "#003DA5",
-      "#FFFFFF",
-      "#FFD100"
+      "#0059A3",
+      "#F0F3F6",
+      "#E51A22"
     ]
   },
   {
@@ -1125,9 +904,9 @@
     "hint2_es": "JABON EN POLVO",
     "hint2_en": "WASHING POWDER",
     "colors": [
-      "#005BAC",
-      "#FFFFFF",
-      "#FFD100"
+      "#325282",
+      "#F6F6F6",
+      "#E54209"
     ]
   },
   {
@@ -1138,9 +917,9 @@
     "hint2_es": "DETERGENTE",
     "hint2_en": "DETERGENT",
     "colors": [
-      "#005BAC",
-      "#E30613",
-      "#FFFFFF"
+      "#039CE0",
+      "#C7D102",
+      "#12256A"
     ]
   },
   {
@@ -1151,9 +930,9 @@
     "hint2_es": "DESODORANTE DE PISO",
     "hint2_en": "FLOOR DEODORIZER",
     "colors": [
-      "#7B2CBF",
+      "#214099",
       "#FFFFFF",
-      "#00AEEF"
+      "#C2C8D8"
     ]
   },
   {
@@ -1164,9 +943,9 @@
     "hint2_es": "AROMATIZANTE",
     "hint2_en": "AIR FRESHENER",
     "colors": [
-      "#00A651",
+      "#004377",
       "#FFFFFF",
-      "#6A1B9A"
+      "#29C3F2"
     ]
   },
   {
@@ -1177,7 +956,7 @@
     "hint2_es": "ENCENDEDOR",
     "hint2_en": "LIGHTER",
     "colors": [
-      "#FF6F00",
+      "#F5B312",
       "#000000",
       "#FFFFFF"
     ]
@@ -1190,7 +969,7 @@
     "hint2_es": "CONSOLA",
     "hint2_en": "CONSOLE",
     "colors": [
-      "#003791",
+      "#00358C",
       "#FFFFFF",
       "#000000"
     ]
@@ -1204,8 +983,8 @@
     "hint2_en": "CONSOLE",
     "colors": [
       "#107C10",
-      "#FFFFFF",
-      "#000000"
+      "#E8E8E8",
+      "#080E04"
     ]
   },
   {
@@ -1229,9 +1008,9 @@
     "hint2_es": "GALLETITAS",
     "hint2_en": "COOKIES",
     "colors": [
-      "#0057B8",
+      "#0099D8",
       "#FFFFFF",
-      "#000000"
+      "#014D9E"
     ]
   },
   {
@@ -1255,9 +1034,9 @@
     "hint2_es": "CHOCOLATE",
     "hint2_en": "CHOCOLATE",
     "colors": [
-      "#6F2DA8",
-      "#FFFFFF",
-      "#000000"
+      "#7A65A6",
+      "#F7F7F7",
+      "#442576"
     ]
   },
   {
@@ -1268,7 +1047,7 @@
     "hint2_es": "CREMA DE AVELLANAS",
     "hint2_en": "HAZELNUT SPREAD",
     "colors": [
-      "#E30613",
+      "#DA0018",
       "#000000",
       "#FFFFFF"
     ]
@@ -1281,8 +1060,8 @@
     "hint2_es": "208",
     "hint2_en": "208",
     "colors": [
-      "#003DA5",
-      "#FFFFFF",
+      "#D9D9D9",
+      "#78797B",
       "#000000"
     ]
   },
@@ -1294,9 +1073,9 @@
     "hint2_es": "C3",
     "hint2_en": "C3",
     "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#E30613"
+      "#9D9D9D",
+      "#242111",
+      "#D2002B"
     ]
   }
 ]

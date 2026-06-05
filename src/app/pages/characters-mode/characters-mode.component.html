@@ -2,6 +2,140 @@
     <app-loading></app-loading>
 } @else {
     <div class="div_container">
-        <p>character-mode works!</p>
+        <div class="div_header">
+            <div class="div_language">
+                <button class="btn_language" type="button" (click)="changeLanguage()" [disabled]="messages.languageTransitioning()">
+                    <img class="img_language" [src]="messages.languageIcon()" [alt]="messages.home().languageAlt">
+                </button>
+
+                <button class="btn_back" type="button" routerLink="/home"></button>
+            </div>
+
+            <img class="img_header" src="images/logo.png" alt="logo">
+
+            <h1 class="h1_header">{{ pageTitle }}</h1>
+
+            <span class="span_header">{{ messages.characters().subtitle }}</span>
+        </div>
+
+        <div class="div_main">
+            <div class="div_central_game">
+                <div class="div_characters_colors">
+                    <div class="div_color color_one" [style.background]="getColor(0)"></div>
+                    <div class="div_color color_two" [style.background]="getColor(1)"></div>
+                    <div class="div_color color_three" [style.background]="getColor(2)"></div>
+                </div>
+
+                <div class="div_hints">
+                    <button class="div_hint hint_one" type="button" (click)="revealHint(1)" [disabled]="!currentOption">
+                        <img src="icons/hint_one.png" alt="hint one">
+                        <span>{{ messages.characters().hintOne }}</span>
+                    </button>
+
+                    <button class="div_hint hint_two" type="button" (click)="revealHint(2)" [disabled]="!currentOption">
+                        <img src="icons/hint_two.png" alt="hint two">
+                        <span>{{ messages.characters().hintTwo }}</span>
+                    </button>
+                </div>
+
+                <div class="div_revealed_hints">
+                    <span
+                        [style.filter]="hintOneVisible ? 'none' : 'blur(8px)'"
+                        [style.opacity]="hintOneVisible ? '1' : '1'"
+                    >
+                        {{ hintOneVisible ? currentHintOne : '????????' }}
+                    </span>
+
+                    <span
+                        [style.filter]="hintTwoVisible ? 'none' : 'blur(8px)'"
+                        [style.opacity]="hintTwoVisible ? '1' : '1'"
+                    >
+                        {{ hintTwoVisible ? currentHintTwo : '????????' }}
+                    </span>
+                </div>
+            </div>
+
+            <div
+                class="div_letters"
+                [class.no_revealed_hints]="!hintOneVisible && !hintTwoVisible"
+                [class.two_revealed_hints]="hintOneVisible && hintTwoVisible"
+                (click)="focusAnswerInput(answerInput)"
+            >
+                <input
+                    #answerInput
+                    class="input_answer"
+                    type="text"
+                    inputmode="text"
+                    autocomplete="off"
+                    autocapitalize="characters"
+                    autocorrect="off"
+                    spellcheck="false"
+                    [attr.maxlength]="answerLetters.length"
+                    [value]="answerValue"
+                    (input)="onAnswerInput($event)"
+                >
+
+                @for(row of answerRows; track $index) {
+                    <div class="div_letter_row">
+                        @for(letterIndex of row; track letterIndex) {
+                            <span
+                                class="input_letter"
+                                [class.wrong_letter]="wrongAnswer"
+                            >
+                                {{ answerLetters[letterIndex] }}
+                            </span>
+                        }
+                    </div>
+                }
+            </div>
+
+            @if(wrongAnswer) {
+                <div class="div_wrong">
+                    <span class="span_wrong">{{ messages.characters().wrongWord }}</span>
+                </div>
+            }
+        </div>
+
+        @if(choosingCategory) {
+            <div class="div_modal">
+                <div class="div_modal_content">
+                    <span class="span_modal_title">{{ messages.characters().categoryTitle }}</span>
+                    <span class="span_modal_subtitle">{{ messages.characters().categorySubtitle }}</span>
+
+                    <div class="div_category_buttons">
+                        @for(category of categories; track category) {
+                            <button class="btn_category" type="button" (click)="chooseCategory(category)" [disabled]="categoryLoading">
+                                {{ categoryTitleMap[category] }}
+                            </button>
+                        }
+                    </div>
+
+                    @if(categoryLoading) {
+                        <span class="span_loading_category">{{ messages.characters().loadingCategory }}</span>
+                    }
+                </div>
+            </div>
+        }
+
+        @if(winVisible) {
+            <div class="div_modal">
+                <div class="div_modal_content">
+                    <span class="span_modal_title">{{ messages.characters().winTitle }}</span>
+                    <span class="span_modal_subtitle">{{ messages.characters().winText }}</span>
+                    <span class="span_win_word">{{ currentName }}</span>
+
+                    <button class="btn_category" type="button" (click)="continueGame()">
+                        {{ messages.characters().nextWord }}
+                    </button>
+                </div>
+            </div>
+        }
+
+        <div class="div_footer">
+            <button class="btn_retry" type="button" (click)="restart()">
+              <span class="icon_span_two">&#10226;</span>
+              <span class="text_span_two">{{ messages.chromatic().retry }}</span>
+            </button>
+        </div>
     </div>
 }

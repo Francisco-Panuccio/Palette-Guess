@@ -7,9 +7,9 @@
     "hint2_es": "ALADDIN",
     "hint2_en": "ALADDIN",
     "colors": [
-      "#A855F7",
-      "#FFFFFF",
-      "#FFD43B"
+      "#5D377B",
+      "#953E23",
+      "#E5CDAA"
     ]
   },
   {
@@ -20,9 +20,9 @@
     "hint2_es": "ALADDIN",
     "hint2_en": "ALADDIN",
     "colors": [
-      "#1E5EFF",
-      "#FFD43B",
-      "#FFFFFF"
+      "#4590CB",
+      "#E73E4C",
+      "#FDE27E"
     ]
   },
   {
@@ -33,9 +33,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#3CB043",
-      "#FFFFFF",
-      "#000000"
+      "#020204",
+      "#EFEFEF",
+      "#5D5E39"
     ]
   },
   {
@@ -46,9 +46,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#C50727",
+      "#060606",
+      "#EFEFEF"
     ]
   },
   {
@@ -59,9 +59,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#BCF7CF",
+      "#010101",
+      "#EBEBEB"
     ]
   },
   {
@@ -72,9 +72,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FFFDA4",
+      "#FEFCD8",
+      "#770006"
     ]
   },
   {
@@ -85,9 +85,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#3E6FA7",
+      "#ADBCF2",
+      "#E3E7EB"
     ]
   },
   {
@@ -98,9 +98,9 @@
     "hint2_es": "BEN 10",
     "hint2_en": "BEN 10",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#010101",
+      "#50A8B6",
+      "#F0F0F0"
     ]
   },
   {
@@ -111,9 +111,9 @@
     "hint2_es": "BOB ESPONJA",
     "hint2_en": "SPONGEBOB SQUAREPANTS",
     "colors": [
-      "#FFFFFF",
-      "#8B5A2B",
-      "#FF69B4"
+      "#DBA575",
+      "#FFFBCC",
+      "#FFFFFF"
     ]
   },
   {
@@ -124,9 +124,9 @@
     "hint2_es": "BOB ESPONJA",
     "hint2_en": "SPONGEBOB SQUAREPANTS",
     "colors": [
-      "#F7E733",
-      "#8B5A2B",
-      "#FFFFFF"
+      "#FFF463",
+      "#FFFFFF",
+      "#B36E2D"
     ]
   },
   {
@@ -137,9 +137,9 @@
     "hint2_es": "BOB ESPONJA",
     "hint2_en": "SPONGEBOB SQUAREPANTS",
     "colors": [
-      "#8CC6B8",
-      "#A06A42",
-      "#5E5E5E"
+      "#C0DFD6",
+      "#FABF45",
+      "#839CC9"
     ]
   },
   {
@@ -150,9 +150,22 @@
     "hint2_es": "BOB ESPONJA",
     "hint2_en": "SPONGEBOB SQUAREPANTS",
     "colors": [
-      "#D62828",
-      "#5DADE2",
-      "#000000"
+      "#C9392D",
+      "#7AACCD",
+      "#655B98"
+    ]
+  },
+  {
+    "name_es": "GARY",
+    "name_en": "GARY",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#E3978A",
+      "#8BC4D7",
+      "#BCD884"
     ]
   },
   {
@@ -163,9 +176,35 @@
     "hint2_es": "BOB ESPONJA",
     "hint2_en": "SPONGEBOB SQUAREPANTS",
     "colors": [
-      "#FFB3C7",
-      "#7ED957",
-      "#A855F7"
+      "#F9AAAF",
+      "#D5DE23",
+      "#B391C4"
+    ]
+  },
+  {
+    "name_es": "PERLITA",
+    "name_en": "PEARL",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#888F99",
+      "#BCB2B3",
+      "#BC5D96"
+    ]
+  },
+  {
+    "name_es": "PLANKTON",
+    "name_en": "PLANKTON",
+    "hint1_es": "NICKELODEON",
+    "hint1_en": "NICKELODEON",
+    "hint2_es": "BOB ESPONJA",
+    "hint2_en": "SPONGEBOB SQUAREPANTS",
+    "colors": [
+      "#000000",
+      "#E9FC88",
+      "#6C9373"
     ]
   },
   {
@@ -176,9 +215,9 @@
     "hint2_es": "BUSCANDO A NEMO",
     "hint2_en": "FINDING NEMO",
     "colors": [
-      "#1E5EFF",
-      "#FFD43B",
-      "#000000"
+      "#26418B",
+      "#FFED3E",
+      "#000102"
     ]
   },
   {
@@ -189,9 +228,9 @@
     "hint2_es": "BUSCANDO A NEMO",
     "hint2_en": "FINDING NEMO",
     "colors": [
-      "#FF7A00",
-      "#FFFFFF",
-      "#000000"
+      "#FF5B01",
+      "#F5DBE8",
+      "#000E13"
     ]
   },
   {
@@ -202,9 +241,9 @@
     "hint2_es": "BUSCANDO A NEMO",
     "hint2_en": "FINDING NEMO",
     "colors": [
-      "#FF7A00",
-      "#FFFFFF",
-      "#000000"
+      "#FE6A34",
+      "#F5DBE8",
+      "#000E13"
     ]
   },
   {
@@ -215,9 +254,9 @@
     "hint2_es": "CARS",
     "hint2_en": "CARS",
     "colors": [
-      "#8B5A2B",
-      "#7D7D7D",
-      "#5C4033"
+      "#E19E69",
+      "#D67F53",
+      "#373632"
     ]
   },
   {
@@ -228,9 +267,9 @@
     "hint2_es": "CARS",
     "hint2_en": "CARS",
     "colors": [
-      "#D62828",
-      "#FFD43B",
-      "#B0B0B0"
+      "#E64F47",
+      "#EEAB7A",
+      "#FFF185"
     ]
   },
   {
@@ -241,9 +280,9 @@
     "hint2_es": "CARS",
     "hint2_en": "CARS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#7092CB",
+      "#202020",
+      "#392E2D"
     ]
   },
   {
@@ -254,9 +293,9 @@
     "hint2_es": "CHOWDER",
     "hint2_en": "CHOWDER",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#6E097B",
+      "#B6ADD5",
+      "#BA0E92"
     ]
   },
   {
@@ -267,9 +306,9 @@
     "hint2_es": "CHOWDER",
     "hint2_en": "CHOWDER",
     "colors": [
-      "#8E44AD",
-      "#F5CBA7",
-      "#FFFFFF"
+      "#8AD4DF",
+      "#F0F0F0",
+      "#9C5E0D"
     ]
   },
   {
@@ -280,9 +319,9 @@
     "hint2_es": "CHOWDER",
     "hint2_en": "CHOWDER",
     "colors": [
-      "#8B5A2B",
-      "#A93226",
-      "#F5CBA7"
+      "#9A8D7F",
+      "#F1F1F1",
+      "#5F6E67"
     ]
   },
   {
@@ -293,9 +332,9 @@
     "hint2_es": "CLARENCE",
     "hint2_en": "CLARENCE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#6442A2",
+      "#6CCC43",
+      "#3574C1"
     ]
   },
   {
@@ -306,9 +345,9 @@
     "hint2_es": "CLARENCE",
     "hint2_en": "CLARENCE",
     "colors": [
-      "#5DADE2",
-      "#F4D03F",
-      "#8B5A2B"
+      "#80CFD4",
+      "#C28E3E",
+      "#323F61"
     ]
   },
   {
@@ -319,9 +358,9 @@
     "hint2_es": "CLARENCE",
     "hint2_en": "CLARENCE",
     "colors": [
-      "#7D6608",
-      "#F5CBA7",
-      "#27AE60"
+      "#312E41",
+      "#52628C",
+      "#7F3B44"
     ]
   },
   {
@@ -332,9 +371,9 @@
     "hint2_es": "CORAJE EL PERRO COBARDE",
     "hint2_en": "COURAGE THE COWARDLY DOG",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#B15D27",
+      "#E6A2AE",
+      "#000000"
     ]
   },
   {
@@ -345,9 +384,9 @@
     "hint2_es": "CORAJE EL PERRO COBARDE",
     "hint2_en": "COURAGE THE COWARDLY DOG",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#6F2B1B",
+      "#FFECCC",
+      "#71782D"
     ]
   },
   {
@@ -358,9 +397,9 @@
     "hint2_es": "CORAJE EL PERRO COBARDE",
     "hint2_en": "COURAGE THE COWARDLY DOG",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#C67626",
+      "#FED934",
+      "#0E1216"
     ]
   },
   {
@@ -371,9 +410,9 @@
     "hint2_es": "CRASH BANDICOOT",
     "hint2_en": "CRASH BANDICOOT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#98522F",
+      "#DD4C3D",
+      "#4C9740"
     ]
   },
   {
@@ -384,9 +423,9 @@
     "hint2_es": "CRASH BANDICOOT",
     "hint2_en": "CRASH BANDICOOT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FDBB60",
+      "#FEEDD3",
+      "#676D93"
     ]
   },
   {
@@ -397,9 +436,9 @@
     "hint2_es": "CRASH BANDICOOT",
     "hint2_en": "CRASH BANDICOOT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#8B5A2B"
+      "#BC4800",
+      "#F7D884",
+      "#19355A"
     ]
   },
   {
@@ -410,9 +449,9 @@
     "hint2_es": "DON GATO Y SU PANDILLA",
     "hint2_en": "TOP CAT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#A84E8E",
+      "#FFE611",
+      "#010005"
     ]
   },
   {
@@ -423,9 +462,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#74D4D3",
+      "#F3E000",
+      "#092A53"
     ]
   },
   {
@@ -436,9 +475,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D2FD65",
+      "#EAEDF4",
+      "#4C4977"
     ]
   },
   {
@@ -449,9 +488,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FFFFFF",
-      "#A855F7",
-      "#C0C0C0"
+      "#824FA9",
+      "#ECF1ED",
+      "#5C2381"
     ]
   },
   {
@@ -462,9 +501,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#000000"
+      "#151515",
+      "#E59200",
+      "#114C75"
     ]
   },
   {
@@ -475,9 +514,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F8D4B2",
+      "#F9BC19",
+      "#3598D3"
     ]
   },
   {
@@ -488,9 +527,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#88B43D",
+      "#6A367A",
+      "#9A7D3D"
     ]
   },
   {
@@ -501,9 +540,9 @@
     "hint2_es": "DRAGON BALL",
     "hint2_en": "DRAGON BALL",
     "colors": [
-      "#1E5EFF",
-      "#FFFFFF",
-      "#FFD43B"
+      "#F7D372",
+      "#DCE1E2",
+      "#1F3B9A"
     ]
   },
   {
@@ -514,9 +553,9 @@
     "hint2_es": "ED, EDD Y EDDY",
     "hint2_en": "ED, EDD N EDDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F5F374",
+      "#9FB730",
+      "#948CBC"
     ]
   },
   {
@@ -527,9 +566,9 @@
     "hint2_es": "ED, EDD Y EDDY",
     "hint2_en": "ED, EDD N EDDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#000000",
+      "#F89520",
+      "#5A1683"
     ]
   },
   {
@@ -540,9 +579,9 @@
     "hint2_es": "ED, EDD Y EDDY",
     "hint2_en": "ED, EDD N EDDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F2BFD2",
+      "#F8ED1D",
+      "#5CBCC9"
     ]
   },
   {
@@ -553,9 +592,9 @@
     "hint2_es": "ED, EDD Y EDDY",
     "hint2_en": "ED, EDD N EDDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#0057A8",
+      "#FFD51D",
+      "#00AFE7"
     ]
   },
   {
@@ -566,9 +605,9 @@
     "hint2_es": "ED, EDD Y EDDY",
     "hint2_en": "ED, EDD N EDDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D3492C",
+      "#E4C666",
+      "#1F91A5"
     ]
   },
   {
@@ -579,8 +618,8 @@
     "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
     "hint2_en": "THE AMAZING WORLD OF GUMBALL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#F9B5BA",
+      "#F77E1C",
       "#FFFFFF"
     ]
   },
@@ -592,9 +631,9 @@
     "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
     "hint2_en": "THE AMAZING WORLD OF GUMBALL",
     "colors": [
-      "#FF7A00",
-      "#FFFFFF",
-      "#3CB043"
+      "#FF7410",
+      "#43BD40",
+      "#F6F8DE"
     ]
   },
   {
@@ -605,9 +644,9 @@
     "hint2_es": "EL INCREIBLE MUNDO DE GUMBALL",
     "hint2_en": "THE AMAZING WORLD OF GUMBALL",
     "colors": [
-      "#5DADE2",
-      "#FFFFFF",
-      "#000000"
+      "#4AC2E4",
+      "#F5D9B5",
+      "#585960"
     ]
   },
   {
@@ -618,8 +657,8 @@
     "hint2_es": "EL LABORATORIO DE DEXTER",
     "hint2_en": "DEXTER'S LABORATORY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#FFB211",
+      "#F1495F",
       "#FFFFFF"
     ]
   },
@@ -631,9 +670,9 @@
     "hint2_es": "EL LABORATORIO DE DEXTER",
     "hint2_en": "DEXTER'S LABORATORY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F7A029",
+      "#FFFFFF",
+      "#7259AD"
     ]
   },
   {
@@ -644,9 +683,9 @@
     "hint2_es": "EL OSO YOGUI",
     "hint2_en": "YOGI BEAR",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#A1D09A",
+      "#9B6A39",
+      "#FFD48C"
     ]
   },
   {
@@ -657,9 +696,9 @@
     "hint2_es": "EL REY LEON",
     "hint2_en": "THE LION KING",
     "colors": [
-      "#8B5A2B",
-      "#F5E6C8",
-      "#000000"
+      "#000000",
+      "#AB6025",
+      "#8E5B43"
     ]
   },
   {
@@ -670,9 +709,9 @@
     "hint2_es": "EL REY LEON",
     "hint2_en": "THE LION KING",
     "colors": [
-      "#8B5A2B",
-      "#000000",
-      "#3CB043"
+      "#4C5053",
+      "#CC7224",
+      "#F5D8A8"
     ]
   },
   {
@@ -683,9 +722,9 @@
     "hint2_es": "EL REY LEON",
     "hint2_en": "THE LION KING",
     "colors": [
-      "#C97B30",
-      "#FFD43B",
-      "#8B5A2B"
+      "#660B10",
+      "#D95926",
+      "#FAC579"
     ]
   },
   {
@@ -696,9 +735,9 @@
     "hint2_es": "EL REY LEON",
     "hint2_en": "THE LION KING",
     "colors": [
-      "#C97B30",
-      "#FFB347",
-      "#8B5A2B"
+      "#F06416",
+      "#E3B048",
+      "#381608"
     ]
   },
   {
@@ -709,9 +748,9 @@
     "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#B0B0B0",
+      "#B6BCC0",
       "#FFFFFF",
-      "#FFB3C7"
+      "#000000"
     ]
   },
   {
@@ -722,9 +761,9 @@
     "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FFD43B",
-      "#FF7A00",
-      "#FFFFFF"
+      "#FFF700",
+      "#4DBCE6",
+      "#FFB631"
     ]
   },
   {
@@ -735,9 +774,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#3E3D69",
+      "#9A2440",
+      "#622812"
     ]
   },
   {
@@ -748,9 +787,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#8B5A2B",
-      "#000000",
-      "#B22222"
+      "#463B63",
+      "#68616D",
+      "#630104"
     ]
   },
   {
@@ -761,9 +800,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#FFD43B",
-      "#FF7A00",
-      "#FFFFFF"
+      "#C59D3D",
+      "#DA6C4D",
+      "#A9A5A6"
     ]
   },
   {
@@ -774,9 +813,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#9E271D",
+      "#F4816C",
+      "#562407"
     ]
   },
   {
@@ -787,9 +826,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#8B5A2B",
-      "#000000",
-      "#B22222"
+      "#402D24",
+      "#7C4220",
+      "#9F5D39"
     ]
   },
   {
@@ -800,9 +839,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F87080",
+      "#F5C89C",
+      "#D22D22"
     ]
   },
   {
@@ -813,9 +852,9 @@
     "hint2_es": "FIVE NIGHTS AT FREDDY'S",
     "hint2_en": "FIVE NIGHTS AT FREDDY'S",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F3E2AF",
+      "#D53E38",
+      "#141511"
     ]
   },
   {
@@ -826,9 +865,9 @@
     "hint2_es": "FROZEN",
     "hint2_en": "FROZEN",
     "colors": [
-      "#A855F7",
-      "#1E8449",
-      "#FFB3C7"
+      "#AF2787",
+      "#6A9EA1",
+      "#223D94"
     ]
   },
   {
@@ -839,9 +878,9 @@
     "hint2_es": "FROZEN",
     "hint2_en": "FROZEN",
     "colors": [
-      "#AEEBFF",
-      "#FFFFFF",
-      "#7ED6FF"
+      "#E3D9CD",
+      "#CBDAEE",
+      "#6CD1ED"
     ]
   },
   {
@@ -852,9 +891,9 @@
     "hint2_es": "FROZEN",
     "hint2_en": "FROZEN",
     "colors": [
-      "#8B5A2B",
-      "#1E5EFF",
-      "#000000"
+      "#E6B98E",
+      "#242728",
+      "#3C1312"
     ]
   },
   {
@@ -865,9 +904,9 @@
     "hint2_es": "FROZEN",
     "hint2_en": "FROZEN",
     "colors": [
-      "#FFFFFF",
-      "#FF7A00",
-      "#7EC8E3"
+      "#D7D5D3",
+      "#CA612C",
+      "#2B2B2D"
     ]
   },
   {
@@ -878,9 +917,9 @@
     "hint2_es": "GOD OF WAR",
     "hint2_en": "GOD OF WAR",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#CEB1A1",
+      "#DB675A",
+      "#3B3023"
     ]
   },
   {
@@ -891,9 +930,9 @@
     "hint2_es": "HALO",
     "hint2_en": "HALO",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#78899A",
+      "#B1C7DF",
+      "#0B1B38"
     ]
   },
   {
@@ -904,9 +943,9 @@
     "hint2_es": "HALO",
     "hint2_en": "HALO",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#8D9D6C",
+      "#BE7508",
+      "#525251"
     ]
   },
   {
@@ -917,9 +956,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#DCA790",
+      "#EBB95C",
+      "#378630"
     ]
   },
   {
@@ -930,9 +969,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#121317",
+      "#8E959D",
+      "#FFE278"
     ]
   },
   {
@@ -943,9 +982,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#75B0DB",
+      "#FCFCFC",
+      "#D1544C"
     ]
   },
   {
@@ -956,9 +995,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#420000",
+      "#B91010",
+      "#000000"
     ]
   },
   {
@@ -969,9 +1008,9 @@
     "hint2_es": "LA GUERRA DE LAS GALAXIAS",
     "hint2_en": "STAR WARS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#706F71",
+      "#161515",
+      "#811517"
     ]
   },
   {
@@ -982,9 +1021,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#434C56",
+      "#7E1825",
+      "#050305"
     ]
   },
   {
@@ -995,9 +1034,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#CDB26C",
+      "#3E5E26",
+      "#A8B0B9"
     ]
   },
   {
@@ -1008,9 +1047,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#B2409F",
+      "#A4F24E",
+      "#7F722C"
     ]
   },
   {
@@ -1021,9 +1060,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D30000",
+      "#E2D7CE",
+      "#F4E400"
     ]
   },
   {
@@ -1034,9 +1073,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#22191C",
+      "#1E71D1",
+      "#37377E"
     ]
   },
   {
@@ -1047,9 +1086,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#06BA27",
+      "#6A0823",
+      "#AC5AFF"
     ]
   },
   {
@@ -1060,9 +1099,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#151511",
+      "#7FA156",
+      "#7E6A82"
     ]
   },
   {
@@ -1073,9 +1112,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FAB753",
+      "#EE3933",
+      "#FAFAFA"
     ]
   },
   {
@@ -1086,9 +1125,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F0A353",
+      "#001429",
+      "#3388C1"
     ]
   },
   {
@@ -1099,9 +1138,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#079362",
+      "#FFFFFF",
+      "#242614"
     ]
   },
   {
@@ -1112,9 +1151,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#616AAB",
+      "#D11917",
+      "#664A86"
     ]
   },
   {
@@ -1125,9 +1164,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FCED0B",
+      "#F72F1D",
+      "#06A2E0"
     ]
   },
   {
@@ -1138,9 +1177,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#5A6E79",
+      "#14171B",
+      "#9DAABC"
     ]
   },
   {
@@ -1151,9 +1190,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D92626",
+      "#0176BC",
+      "#030102"
     ]
   },
   {
@@ -1164,9 +1203,9 @@
     "hint2_es": "DC",
     "hint2_en": "DC",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#006EC6",
+      "#FC010A",
+      "#FFFC0A"
     ]
   },
   {
@@ -1177,9 +1216,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#DBB258",
+      "#606A85",
+      "#3B505C"
     ]
   },
   {
@@ -1190,9 +1229,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#C82D30",
+      "#9492A7",
+      "#2F4D6B"
     ]
   },
   {
@@ -1203,9 +1242,9 @@
     "hint2_es": "MARVEL",
     "hint2_en": "MARVEL",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F6C453",
+      "#16190E",
+      "#124A7B"
     ]
   },
   {
@@ -1216,9 +1255,9 @@
     "hint2_es": "HORA DE AVENTURA",
     "hint2_en": "ADVENTURE TIME",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FFCC2E",
+      "#FE66CC",
+      "#FF00CE"
     ]
   },
   {
@@ -1230,8 +1269,8 @@
     "hint2_en": "ADVENTURE TIME",
     "colors": [
       "#FFFFFF",
-      "#1E5EFF",
-      "#5DADE2"
+      "#0099CB",
+      "#50A627"
     ]
   },
   {
@@ -1242,9 +1281,9 @@
     "hint2_es": "HORA DE AVENTURA",
     "hint2_en": "ADVENTURE TIME",
     "colors": [
-      "#FFD43B",
+      "#FFFFFF",
       "#000000",
-      "#FFFFFF"
+      "#FEB925"
     ]
   },
   {
@@ -1255,9 +1294,9 @@
     "hint2_es": "HORA DE AVENTURA",
     "hint2_en": "ADVENTURE TIME",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#080715",
+      "#C0D8DA",
+      "#541B24"
     ]
   },
   {
@@ -1268,9 +1307,9 @@
     "hint2_es": "HORA DE AVENTURA",
     "hint2_en": "ADVENTURE TIME",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F7CC08",
+      "#FFFFFF",
+      "#0808FE"
     ]
   },
   {
@@ -1281,9 +1320,9 @@
     "hint2_es": "KIRBY",
     "hint2_en": "KIRBY",
     "colors": [
-      "#FFB3C7",
-      "#FF4D4D",
-      "#8B00FF"
+      "#15469B",
+      "#EEB2CE",
+      "#EF7F92"
     ]
   },
   {
@@ -1294,9 +1333,9 @@
     "hint2_es": "KIRBY",
     "hint2_en": "KIRBY",
     "colors": [
-      "#1E5EFF",
-      "#C0C0C0",
-      "#FFD43B"
+      "#5061AE",
+      "#9DA9BC",
+      "#896997"
     ]
   },
   {
@@ -1307,9 +1346,9 @@
     "hint2_es": "KUNG FU PANDA",
     "hint2_en": "KUNG FU PANDA",
     "colors": [
-      "#000000",
-      "#FFFFFF",
-      "#8B5A2B"
+      "#E1E1DF",
+      "#25201D",
+      "#A78450"
     ]
   },
   {
@@ -1320,9 +1359,9 @@
     "hint2_es": "KUNG FU PANDA",
     "hint2_en": "KUNG FU PANDA",
     "colors": [
-      "#FF7A00",
-      "#000000",
-      "#FFFFFF"
+      "#E08B0D",
+      "#ECC761",
+      "#212224"
     ]
   },
   {
@@ -1333,8 +1372,8 @@
     "hint2_es": "LAS CHICAS SUPERPODEROSAS",
     "hint2_en": "THE POWERPUFF GIRLS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#080808",
+      "#5FB035",
       "#FFFFFF"
     ]
   },
@@ -1346,8 +1385,8 @@
     "hint2_es": "LAS CHICAS SUPERPODEROSAS",
     "hint2_en": "THE POWERPUFF GIRLS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#E42026",
+      "#F28E28",
       "#FFFFFF"
     ]
   },
@@ -1359,8 +1398,8 @@
     "hint2_es": "LAS CHICAS SUPERPODEROSAS",
     "hint2_en": "THE POWERPUFF GIRLS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#FDEE51",
+      "#3FBCE6",
       "#FFFFFF"
     ]
   },
@@ -1372,9 +1411,9 @@
     "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
     "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F79FA6",
+      "#FFFFFF",
+      "#1A2575"
     ]
   },
   {
@@ -1385,9 +1424,9 @@
     "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
     "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FFF04D",
+      "#000000",
+      "#F993BC"
     ]
   },
   {
@@ -1398,8 +1437,8 @@
     "hint2_es": "LAS SOMBRIAS AVENTURAS DE BILLY Y MANDY",
     "hint2_en": "THE GRIM ADVENTURES OF BILLY AND MANDY",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
+      "#000000",
+      "#F41820",
       "#FFFFFF"
     ]
   },
@@ -1411,9 +1450,9 @@
     "hint2_es": "LILO Y STITCH",
     "hint2_en": "LILO & STITCH",
     "colors": [
-      "#FF0000",
-      "#FFFFFF",
-      "#000000"
+      "#080808",
+      "#FE4032",
+      "#FDFFFD"
     ]
   },
   {
@@ -1424,9 +1463,9 @@
     "hint2_es": "LILO Y STITCH",
     "hint2_en": "LILO & STITCH",
     "colors": [
-      "#1E5EFF",
-      "#7ED6FF",
-      "#000080"
+      "#A48BB5",
+      "#4C77A4",
+      "#70B4D1"
     ]
   },
   {
@@ -1437,9 +1476,9 @@
     "hint2_es": "LOS AUTOS LOCOS",
     "hint2_en": "WACKY RACES",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D4421F",
+      "#090909",
+      "#C0AA57"
     ]
   },
   {
@@ -1450,9 +1489,9 @@
     "hint2_es": "LOS PICAPIEDRA",
     "hint2_en": "THE FLINTSTONES",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FFE135",
+      "#FDD186",
+      "#B28158"
     ]
   },
   {
@@ -1463,9 +1502,22 @@
     "hint2_es": "LOS PICAPIEDRA",
     "hint2_en": "THE FLINTSTONES",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#000000",
+      "#4C58B2",
+      "#E46D05"
+    ]
+  },
+  {
+    "name_es": "APU",
+    "name_en": "APU",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#8C4817",
+      "#159D69",
+      "#FEF7A4"
     ]
   },
   {
@@ -1476,9 +1528,35 @@
     "hint2_es": "LOS SIMPSON",
     "hint2_en": "THE SIMPSONS",
     "colors": [
-      "#F9D71C",
-      "#FF6A00",
-      "#3A86FF"
+      "#FED524",
+      "#F1532E",
+      "#009DDC"
+    ]
+  },
+  {
+    "name_es": "BURNS",
+    "name_en": "BURNS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#007B76",
+      "#2A1E0C"
+    ]
+  },
+  {
+    "name_es": "EDNA KRABAPPEL",
+    "name_en": "EDNA KRABAPPEL",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#46B02B",
+      "#00877C"
     ]
   },
   {
@@ -1489,9 +1567,22 @@
     "hint2_es": "LOS SIMPSON",
     "hint2_en": "THE SIMPSONS",
     "colors": [
-      "#F9D71C",
+      "#FED524",
       "#FFFFFF",
-      "#4DA6FF"
+      "#6AC7FD"
+    ]
+  },
+  {
+    "name_es": "KRUSTY",
+    "name_en": "KRUSTY",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#008D7B",
+      "#D3C8AB",
+      "#C4645E"
     ]
   },
   {
@@ -1502,9 +1593,9 @@
     "hint2_es": "LOS SIMPSON",
     "hint2_en": "THE SIMPSONS",
     "colors": [
-      "#F9D71C",
-      "#FF8C42",
-      "#FFFFFF"
+      "#FED524",
+      "#FFFFFF",
+      "#F06335"
     ]
   },
   {
@@ -1515,9 +1606,9 @@
     "hint2_es": "LOS SIMPSON",
     "hint2_en": "THE SIMPSONS",
     "colors": [
-      "#7ED6FF",
-      "#F9D71C",
-      "#E0E0E0"
+      "#FED524",
+      "#CB5F3A",
+      "#6DD0F7"
     ]
   },
   {
@@ -1528,9 +1619,87 @@
     "hint2_es": "LOS SIMPSON",
     "hint2_en": "THE SIMPSONS",
     "colors": [
-      "#244BFF",
-      "#9EE493",
-      "#F9D71C"
+      "#1480C4",
+      "#FED524",
+      "#B1C979"
+    ]
+  },
+  {
+    "name_es": "MILHOUSE",
+    "name_en": "MILHOUSE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#1F6FC3",
+      "#FED524",
+      "#D1AED5"
+    ]
+  },
+  {
+    "name_es": "MOE",
+    "name_en": "MOE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#B2C1F4",
+      "#000325"
+    ]
+  },
+  {
+    "name_es": "NED FLANDERS",
+    "name_en": "NED FLANDERS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#467E2A",
+      "#8F9297"
+    ]
+  },
+  {
+    "name_es": "SKINNER",
+    "name_en": "SKINNER",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#0F5D96",
+      "#61656B"
+    ]
+  },
+  {
+    "name_es": "SMITHERS",
+    "name_en": "SMITHERS",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#FED524",
+      "#55622F",
+      "#3B8386"
+    ]
+  },
+  {
+    "name_es": "WILLIE",
+    "name_en": "WILLIE",
+    "hint1_es": "DISNEY",
+    "hint1_en": "DISNEY",
+    "hint2_es": "LOS SIMPSON",
+    "hint2_en": "THE SIMPSONS",
+    "colors": [
+      "#CC2321",
+      "#FED524",
+      "#0068B1"
     ]
   },
   {
@@ -1541,9 +1710,9 @@
     "hint2_es": "LOS SUPERSONICOS",
     "hint2_en": "THE JETSONS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F36510",
+      "#F7F1E5",
+      "#0394C3"
     ]
   },
   {
@@ -1554,9 +1723,9 @@
     "hint2_es": "LOS SUPERSONICOS",
     "hint2_en": "THE JETSONS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FF6600",
+      "#9900CC",
+      "#6766CC"
     ]
   },
   {
@@ -1567,9 +1736,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#7FBF3F",
-      "#FF7A00",
-      "#F5E6C8"
+      "#DE3D31",
+      "#519D51",
+      "#FFE93E"
     ]
   },
   {
@@ -1580,9 +1749,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#441C16",
+      "#FBD9AC",
+      "#E92F18"
     ]
   },
   {
@@ -1593,9 +1762,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#3CB043",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#0E960D",
+      "#394B77",
+      "#65362F"
     ]
   },
   {
@@ -1606,9 +1775,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#FF0000",
-      "#1E5EFF",
-      "#8B5A2B"
+      "#FE201D",
+      "#43211B",
+      "#1A33A6"
     ]
   },
   {
@@ -1619,9 +1788,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#FFB3C7",
-      "#FFD43B",
-      "#FFFFFF"
+      "#FDF55D",
+      "#FD9AC8",
+      "#FE6294"
     ]
   },
   {
@@ -1632,9 +1801,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#FFFFFF",
-      "#FF0000",
-      "#1E5EFF"
+      "#EB3434",
+      "#FEFEFE",
+      "#803822"
     ]
   },
   {
@@ -1645,9 +1814,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#FFD43B",
-      "#A855F7",
-      "#000000"
+      "#FDFB37",
+      "#A03F91",
+      "#268533"
     ]
   },
   {
@@ -1658,9 +1827,9 @@
     "hint2_es": "MARIO BROS",
     "hint2_en": "MARIO BROS",
     "colors": [
-      "#3CB043",
+      "#5DD54F",
       "#FFFFFF",
-      "#FF7A00"
+      "#FF7F40"
     ]
   },
   {
@@ -1672,8 +1841,8 @@
     "hint2_en": "MICKEY MOUSE",
     "colors": [
       "#FFFFFF",
-      "#1E5EFF",
-      "#FFD43B"
+      "#0074C9",
+      "#F1BC48"
     ]
   },
   {
@@ -1684,9 +1853,9 @@
     "hint2_es": "MICKEY MOUSE",
     "hint2_en": "MICKEY MOUSE",
     "colors": [
-      "#000000",
-      "#FF7A00",
-      "#7ED957"
+      "#D1DC37",
+      "#ED7F3E",
+      "#0CB6E5"
     ]
   },
   {
@@ -1698,8 +1867,8 @@
     "hint2_en": "MICKEY MOUSE",
     "colors": [
       "#000000",
-      "#FF0000",
-      "#FFE8C2"
+      "#B62A31",
+      "#FDC600"
     ]
   },
   {
@@ -1710,9 +1879,9 @@
     "hint2_es": "MICKEY MOUSE",
     "hint2_en": "MICKEY MOUSE",
     "colors": [
-      "#FF2D55",
       "#000000",
-      "#FFFFFF"
+      "#CA1F35",
+      "#F5B635"
     ]
   },
   {
@@ -1723,9 +1892,9 @@
     "hint2_es": "MICKEY MOUSE",
     "hint2_en": "MICKEY MOUSE",
     "colors": [
-      "#FFD43B",
-      "#000000",
-      "#7ED957"
+      "#EAAE0A",
+      "#050505",
+      "#1EAE4D"
     ]
   },
   {
@@ -1736,9 +1905,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#8B614F",
+      "#644945",
+      "#555453"
     ]
   },
   {
@@ -1749,9 +1918,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#EA9B36",
+      "#91B663",
+      "#7C3B28"
     ]
   },
   {
@@ -1762,9 +1931,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#3CB043",
-      "#000000",
-      "#7ED957"
+      "#72C363",
+      "#BED1BA",
+      "#000000"
     ]
   },
   {
@@ -1776,8 +1945,8 @@
     "hint2_en": "MINECRAFT",
     "colors": [
       "#000000",
-      "#A855F7",
-      "#4B0082"
+      "#151515",
+      "#DD00F5"
     ]
   },
   {
@@ -1788,9 +1957,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#B4B4B4",
+      "#7F7F7F",
+      "#767676"
     ]
   },
   {
@@ -1801,9 +1970,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#5DADE2",
-      "#1E8449",
-      "#8B5A2B"
+      "#2D1E0E",
+      "#007876",
+      "#2E266D"
     ]
   },
   {
@@ -1814,9 +1983,9 @@
     "hint2_es": "MINECRAFT",
     "hint2_en": "MINECRAFT",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#6C8D58",
+      "#00A4A7",
+      "#302774"
     ]
   },
   {
@@ -1827,9 +1996,9 @@
     "hint2_es": "NARUTO",
     "hint2_en": "NARUTO",
     "colors": [
-      "#FF7A00",
-      "#000000",
-      "#FFD43B"
+      "#E5E743",
+      "#14346B",
+      "#EE7F4E"
     ]
   },
   {
@@ -1840,9 +2009,9 @@
     "hint2_es": "NARUTO",
     "hint2_en": "NARUTO",
     "colors": [
-      "#FFB3C7",
-      "#D62828",
-      "#FFFFFF"
+      "#E2B4B2",
+      "#8D233C",
+      "#37545C"
     ]
   },
   {
@@ -1853,9 +2022,9 @@
     "hint2_es": "NARUTO",
     "hint2_en": "NARUTO",
     "colors": [
-      "#1E1E1E",
-      "#A855F7",
-      "#FFFFFF"
+      "#343B48",
+      "#00467E",
+      "#DACFCA"
     ]
   },
   {
@@ -1866,9 +2035,9 @@
     "hint2_es": "ONE PIECE",
     "hint2_en": "ONE PIECE",
     "colors": [
-      "#FF0000",
-      "#FFD43B",
-      "#1E5EFF"
+      "#BA313A",
+      "#E4CB4F",
+      "#4C68AD"
     ]
   },
   {
@@ -1879,9 +2048,9 @@
     "hint2_es": "ONE PIECE",
     "hint2_en": "ONE PIECE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#244C99",
+      "#EEEEEE",
+      "#DA9B26"
     ]
   },
   {
@@ -1892,9 +2061,9 @@
     "hint2_es": "ONE PIECE",
     "hint2_en": "ONE PIECE",
     "colors": [
-      "#FFB3C7",
-      "#8B5A2B",
-      "#1E5EFF"
+      "#B3646A",
+      "#C6A882",
+      "#5B2B3D"
     ]
   },
   {
@@ -1905,9 +2074,9 @@
     "hint2_es": "ONE PIECE",
     "hint2_en": "ONE PIECE",
     "colors": [
-      "#3CB043",
-      "#000000",
-      "#FFFFFF"
+      "#B8E8B6",
+      "#5B685A",
+      "#8C304F"
     ]
   },
   {
@@ -1918,9 +2087,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#7EA5CE",
+      "#CEBCA3",
+      "#9E846F"
     ]
   },
   {
@@ -1931,9 +2100,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#5DBB63",
-      "#2A9D8F",
-      "#D94F70"
+      "#86C092",
+      "#84CCB2",
+      "#458E70"
     ]
   },
   {
@@ -1944,9 +2113,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FAAC6D",
+      "#F8E9B0",
+      "#3F9FB0"
     ]
   },
   {
@@ -1957,9 +2126,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#FFF3B0",
-      "#4CAF50"
+      "#F4B387",
+      "#F6EAD1",
+      "#F37538"
     ]
   },
   {
@@ -1970,9 +2139,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#C5915D",
+      "#000000",
+      "#F6E5BE"
     ]
   },
   {
@@ -1983,9 +2152,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#9ACD9B",
+      "#DB6B75",
+      "#E7E5EE"
     ]
   },
   {
@@ -1996,9 +2165,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#ADA4C1",
+      "#F3BBB2",
+      "#4E4664"
     ]
   },
   {
@@ -2009,9 +2178,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#4B8FC1",
+      "#F3D2B5",
+      "#B0BAC6"
     ]
   },
   {
@@ -2022,9 +2191,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FFB3C7",
-      "#00BFFF",
-      "#FFFFFF"
+      "#F4D6DF",
+      "#006182",
+      "#E6E7EC"
     ]
   },
   {
@@ -2035,9 +2204,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#79A9BB",
+      "#F0DCA6",
+      "#5E5F63"
     ]
   },
   {
@@ -2048,9 +2217,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#F5E6C8",
-      "#FFD43B",
-      "#8B5A2B"
+      "#0E0E10",
+      "#F4EDD2",
+      "#C89861"
     ]
   },
   {
@@ -2061,9 +2230,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#DCD6E1",
+      "#64515B",
+      "#A281A0"
     ]
   },
   {
@@ -2074,9 +2243,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FFD43B",
-      "#000000",
-      "#FF4D4D"
+      "#0A0707",
+      "#F7E484",
+      "#D96D54"
     ]
   },
   {
@@ -2087,9 +2256,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#70777D",
+      "#9DA7AD",
+      "#EDEDF0"
     ]
   },
   {
@@ -2100,9 +2269,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#6099AD",
+      "#EEE3D6",
+      "#807062"
     ]
   },
   {
@@ -2113,9 +2282,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#7ED6FF",
-      "#8B5A2B",
-      "#FFF3B0"
+      "#84C7D7",
+      "#EDE4CD",
+      "#B37C6C"
     ]
   },
   {
@@ -2126,9 +2295,9 @@
     "hint2_es": "POKEMON",
     "hint2_en": "POKEMON",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#C66777",
+      "#56845F",
+      "#7DBFBC"
     ]
   },
   {
@@ -2139,9 +2308,9 @@
     "hint2_es": "SCOOBY DOO",
     "hint2_en": "SCOOBY DOO",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#E9AF10",
+      "#B8BE19",
+      "#A44138"
     ]
   },
   {
@@ -2152,9 +2321,9 @@
     "hint2_es": "SCOOBY DOO",
     "hint2_en": "SCOOBY DOO",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#9E3E36",
+      "#F0941C",
+      "#C00B44"
     ]
   },
   {
@@ -2165,9 +2334,9 @@
     "hint2_es": "SCOOBY-DOO",
     "hint2_en": "SCOOBY-DOO",
     "colors": [
-      "#8B5A2B",
-      "#000000",
-      "#5DADE2"
+      "#000006",
+      "#AC722F",
+      "#43AFA4"
     ]
   },
   {
@@ -2178,9 +2347,9 @@
     "hint2_es": "SHREK",
     "hint2_en": "SHREK",
     "colors": [
-      "#7D7D7D",
-      "#EAEAEA",
-      "#5C4033"
+      "#322821",
+      "#998370",
+      "#DAC1B0"
     ]
   },
   {
@@ -2191,9 +2360,9 @@
     "hint2_es": "SHREK",
     "hint2_en": "SHREK",
     "colors": [
-      "#8BC34A",
-      "#C97B30",
-      "#3A7D44"
+      "#A85B39",
+      "#C0B93F",
+      "#548968"
     ]
   },
   {
@@ -2204,9 +2373,9 @@
     "hint2_es": "SHREK",
     "hint2_en": "SHREK",
     "colors": [
-      "#FF7A00",
-      "#000000",
-      "#FFD43B"
+      "#181B18",
+      "#C1742C",
+      "#F7C675"
     ]
   },
   {
@@ -2217,9 +2386,9 @@
     "hint2_es": "SHREK",
     "hint2_en": "SHREK",
     "colors": [
-      "#7FBF3F",
-      "#8B5A2B",
-      "#EAD7B7"
+      "#ADB50C",
+      "#544842",
+      "#D2C18B"
     ]
   },
   {
@@ -2230,9 +2399,9 @@
     "hint2_es": "SONIC THE HEDGEHOG",
     "hint2_en": "SONIC THE HEDGEHOG",
     "colors": [
-      "#D62828",
-      "#FFFFFF",
-      "#FFD43B"
+      "#E8292A",
+      "#CACDD6",
+      "#009500"
     ]
   },
   {
@@ -2243,9 +2412,9 @@
     "hint2_es": "SONIC THE HEDGEHOG",
     "hint2_en": "SONIC THE HEDGEHOG",
     "colors": [
-      "#000000",
-      "#D62828",
-      "#FFFFFF"
+      "#C62030",
+      "#0D121D",
+      "#D6C9BF"
     ]
   },
   {
@@ -2256,9 +2425,9 @@
     "hint2_es": "SONIC THE HEDGEHOG",
     "hint2_en": "SONIC THE HEDGEHOG",
     "colors": [
-      "#0066FF",
-      "#F5D6B4",
-      "#FF0000"
+      "#1363ED",
+      "#E9BA78",
+      "#E32527"
     ]
   },
   {
@@ -2269,61 +2438,9 @@
     "hint2_es": "SONIC THE HEDGEHOG",
     "hint2_en": "SONIC THE HEDGEHOG",
     "colors": [
-      "#FFB347",
-      "#FFFFFF",
-      "#1E5EFF"
-    ]
-  },
-  {
-    "name_es": "GARY",
-    "name_en": "GARY",
-    "hint1_es": "NICKELODEON",
-    "hint1_en": "NICKELODEON",
-    "hint2_es": "SPONGEBOB SQUAREPANTS",
-    "hint2_en": "SPONGEBOB SQUAREPANTS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "PERLITA",
-    "name_en": "PEARL",
-    "hint1_es": "NICKELODEON",
-    "hint1_en": "NICKELODEON",
-    "hint2_es": "SPONGEBOB SQUAREPANTS",
-    "hint2_en": "SPONGEBOB SQUAREPANTS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "PLANKTON",
-    "name_en": "PLANKTON",
-    "hint1_es": "NICKELODEON",
-    "hint1_en": "NICKELODEON",
-    "hint2_es": "SPONGEBOB SQUAREPANTS",
-    "hint2_en": "SPONGEBOB SQUAREPANTS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "STEVEN",
-    "name_en": "STEVEN",
-    "hint1_es": "CARTOON NETWORK",
-    "hint1_en": "CARTOON NETWORK",
-    "hint2_es": "STEVEN UNIVERS",
-    "hint2_en": "STEVEN UNIVERSE",
-    "colors": [
-      "#FFB3C7",
-      "#FFD43B",
-      "#FF4D4D"
+      "#F1A62D",
+      "#D3CECB",
+      "#D53E3B"
     ]
   },
   {
@@ -2334,9 +2451,9 @@
     "hint2_es": "STEVEN UNIVERSE",
     "hint2_en": "STEVEN UNIVERSE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#D6CBE8",
+      "#B594C4",
+      "#D564F6"
     ]
   },
   {
@@ -2347,9 +2464,9 @@
     "hint2_es": "STEVEN UNIVERSE",
     "hint2_en": "STEVEN UNIVERSE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#090000",
+      "#F63572",
+      "#8E001C"
     ]
   },
   {
@@ -2360,9 +2477,9 @@
     "hint2_es": "STEVEN UNIVERSE",
     "hint2_en": "STEVEN UNIVERSE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#8DF561",
+      "#F3F7A8",
+      "#069E4C"
     ]
   },
   {
@@ -2373,9 +2490,22 @@
     "hint2_es": "STEVEN UNIVERSE",
     "hint2_en": "STEVEN UNIVERSE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#FED7BC",
+      "#7DF8E3",
+      "#514A8D"
+    ]
+  },
+  {
+    "name_es": "STEVEN",
+    "name_en": "STEVEN",
+    "hint1_es": "CARTOON NETWORK",
+    "hint1_en": "CARTOON NETWORK",
+    "hint2_es": "STEVEN UNIVERSE",
+    "hint2_en": "STEVEN UNIVERSE",
+    "colors": [
+      "#F35D6B",
+      "#F7C945",
+      "#236F97"
     ]
   },
   {
@@ -2386,9 +2516,9 @@
     "hint2_es": "THE LEGEND OF ZELDA",
     "hint2_en": "THE LEGEND OF ZELDA",
     "colors": [
-      "#8B5A2B",
-      "#A855F7",
-      "#3CB043"
+      "#7D2B25",
+      "#4E4B3E",
+      "#675C54"
     ]
   },
   {
@@ -2399,9 +2529,9 @@
     "hint2_es": "THE LEGEND OF ZELDA",
     "hint2_en": "THE LEGEND OF ZELDA",
     "colors": [
-      "#3CB043",
-      "#8B5A2B",
-      "#1E5EFF"
+      "#F8EC7F",
+      "#648E48",
+      "#7D4835"
     ]
   },
   {
@@ -2412,9 +2542,9 @@
     "hint2_es": "THE LEGEND OF ZELDA",
     "hint2_en": "THE LEGEND OF ZELDA",
     "colors": [
-      "#FFD43B",
-      "#FFFFFF",
-      "#A855F7"
+      "#F4E958",
+      "#DA3E87",
+      "#F7F3DF"
     ]
   },
   {
@@ -2422,12 +2552,12 @@
     "name_en": "PORKY PIG",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#EDA394",
+      "#CB0E15",
+      "#0B35A7"
     ]
   },
   {
@@ -2435,12 +2565,12 @@
     "name_en": "ROAD RUNNER",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#39288A",
+      "#F1A71A",
+      "#8BA4C5"
     ]
   },
   {
@@ -2448,12 +2578,12 @@
     "name_en": "WILE E COYOTE",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#69522D",
+      "#D9C39A",
+      "#020100"
     ]
   },
   {
@@ -2461,12 +2591,12 @@
     "name_en": "TASMANIAN DEVIL",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#82580F",
+      "#D9C9B5",
+      "#020407"
     ]
   },
   {
@@ -2474,12 +2604,12 @@
     "name_en": "MARVIN THE MARTIAN",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#56A73E",
+      "#000000",
+      "#DC3E29"
     ]
   },
   {
@@ -2487,12 +2617,12 @@
     "name_en": "DAFFY DUCK",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#EFA200",
+      "#000000",
+      "#EFA200"
     ]
   },
   {
@@ -2500,142 +2630,12 @@
     "name_en": "SYLVESTER",
     "hint1_es": "LOONEY TUNES",
     "hint1_en": "LOONEY TUNES",
-    "hint2_es": "THE LOONEY TUNES SHOW",
+    "hint2_es": "EL SHOW DE LOS LOONEY TUNES",
     "hint2_en": "THE LOONEY TUNES SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "APU",
-    "name_en": "APU",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "BURNS",
-    "name_en": "BURNS",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "EDNA KRABAPPEL",
-    "name_en": "EDNA KRABAPPEL",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "KRUSTY",
-    "name_en": "KRUSTY",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "MILHOUSE",
-    "name_en": "MILHOUSE",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "MOE",
-    "name_en": "MOE",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "NED FLANDERS",
-    "name_en": "NED FLANDERS",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "SKINNER",
-    "name_en": "SKINNER",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "SMITHERS",
-    "name_en": "SMITHERS",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "WILLIE",
-    "name_en": "WILLIE",
-    "hint1_es": "DISNEY",
-    "hint1_en": "DISNEY",
-    "hint2_es": "THE SIMPSONS",
-    "hint2_en": "THE SIMPSONS",
-    "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#000000",
+      "#F7F7F7",
+      "#C20409"
     ]
   },
   {
@@ -2646,9 +2646,9 @@
     "hint2_es": "TIO GRAMPA",
     "hint2_en": "UNCLE GRANDPA",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#CB4406",
+      "#000000",
+      "#F7960E"
     ]
   },
   {
@@ -2659,9 +2659,9 @@
     "hint2_es": "TIO GRAMPA",
     "hint2_en": "UNCLE GRANDPA",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#06530D",
+      "#0A9906",
+      "#F4DCAB"
     ]
   },
   {
@@ -2672,9 +2672,9 @@
     "hint2_es": "TIO GRAMPA",
     "hint2_en": "UNCLE GRANDPA",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#2E9AAA",
+      "#F1AF9C",
+      "#3E333D"
     ]
   },
   {
@@ -2685,9 +2685,9 @@
     "hint2_es": "TOM Y JERRY",
     "hint2_en": "TOM & JERRY",
     "colors": [
-      "#8B5A2B",
-      "#F5E6C8",
-      "#FF7A00"
+      "#E7A2B0",
+      "#C18206",
+      "#EFE1B2"
     ]
   },
   {
@@ -2698,9 +2698,9 @@
     "hint2_es": "TOM Y JERRY",
     "hint2_en": "TOM & JERRY",
     "colors": [
-      "#7D7D7D",
-      "#FFFFFF",
-      "#FFD43B"
+      "#7F868C",
+      "#C0C4C5",
+      "#F5F5F5"
     ]
   },
   {
@@ -2711,9 +2711,9 @@
     "hint2_es": "TOY STORY",
     "hint2_en": "TOY STORY",
     "colors": [
-      "#FFFFFF",
-      "#7E57C2",
-      "#7ED957"
+      "#552A4E",
+      "#609A5C",
+      "#BDB7B1"
     ]
   },
   {
@@ -2724,9 +2724,9 @@
     "hint2_es": "TOY STORY",
     "hint2_en": "TOY STORY",
     "colors": [
-      "#FF0000",
-      "#FFFFFF",
-      "#FFD43B"
+      "#691C18",
+      "#D6D1C4",
+      "#2E4B6C"
     ]
   },
   {
@@ -2737,9 +2737,9 @@
     "hint2_es": "TOY STORY",
     "hint2_en": "TOY STORY",
     "colors": [
-      "#7ED957",
-      "#FFFFFF",
-      "#4CAF50"
+      "#58A85D",
+      "#C1B592",
+      "#000E00"
     ]
   },
   {
@@ -2750,9 +2750,9 @@
     "hint2_es": "TOY STORY",
     "hint2_en": "TOY STORY",
     "colors": [
-      "#8B5A2B",
-      "#000000",
-      "#FF0000"
+      "#090400",
+      "#9A5327",
+      "#236ABA"
     ]
   },
   {
@@ -2763,9 +2763,9 @@
     "hint2_es": "TOY STORY",
     "hint2_en": "TOY STORY",
     "colors": [
-      "#8B5A2B",
-      "#FFD43B",
-      "#3A86FF"
+      "#A65942",
+      "#CDA356",
+      "#405473"
     ]
   },
   {
@@ -2776,9 +2776,9 @@
     "hint2_es": "UN SHOW MAS",
     "hint2_en": "REGULAR SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#ED3840",
+      "#54403E",
+      "#F3EAE4"
     ]
   },
   {
@@ -2789,9 +2789,9 @@
     "hint2_es": "UN SHOW MAS",
     "hint2_en": "REGULAR SHOW",
     "colors": [
-      "#5DADE2",
-      "#FFFFFF",
-      "#000000"
+      "#4C8CC6",
+      "#5C5D5E",
+      "#C8E0EE"
     ]
   },
   {
@@ -2802,9 +2802,9 @@
     "hint2_es": "UN SHOW MAS",
     "hint2_en": "REGULAR SHOW",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#504E28",
+      "#A6B492",
+      "#798F97"
     ]
   },
   {
@@ -2815,9 +2815,9 @@
     "hint2_es": "UN SHOW MAS",
     "hint2_en": "REGULAR SHOW",
     "colors": [
-      "#8B5A2B",
-      "#FFD43B",
-      "#5C4033"
+      "#9B8164",
+      "#B4ACA1",
+      "#403E25"
     ]
   },
   {
@@ -2828,9 +2828,9 @@
     "hint2_es": "UNDERTALE",
     "hint2_en": "UNDERTALE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#E6F605",
+      "#DFE0E2",
+      "#56F671"
     ]
   },
   {
@@ -2841,9 +2841,9 @@
     "hint2_es": "UNDERTALE",
     "hint2_en": "UNDERTALE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F6F6F6",
+      "#DC3A0C",
+      "#F2DF66"
     ]
   },
   {
@@ -2854,9 +2854,9 @@
     "hint2_es": "UNDERTALE",
     "hint2_en": "UNDERTALE",
     "colors": [
-      "#FF7A00",
-      "#1E5EFF",
-      "#FFFFFF"
+      "#F7F7F7",
+      "#457EC2",
+      "#000000"
     ]
   },
   {
@@ -2867,9 +2867,9 @@
     "hint2_es": "WALL-E",
     "hint2_en": "WALL-E",
     "colors": [
-      "#FFFFFF",
-      "#1E5EFF",
-      "#000000"
+      "#DADFE3",
+      "#040301",
+      "#065182"
     ]
   },
   {
@@ -2880,9 +2880,9 @@
     "hint2_es": "WALL-E",
     "hint2_en": "WALL-E",
     "colors": [
-      "#FFD43B",
-      "#8B5A2B",
-      "#7D7D7D"
+      "#AAA4A1",
+      "#F2C562",
+      "#584A3F"
     ]
   }
 ]

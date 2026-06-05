@@ -85,9 +85,9 @@
     "hint2_es": "AMERICA DEL SUR",
     "hint2_en": "SOUTH AMERICA",
     "colors": [
-      "#D91023",
+      "#D20F21",
       "#FFFFFF",
-      "#B11226"
+      "#D20F21"
     ]
   },
   {
@@ -137,9 +137,9 @@
     "hint2_es": "AMERICA DEL SUR",
     "hint2_en": "SOUTH AMERICA",
     "colors": [
-      "#009E49",
-      "#FCD116",
-      "#CE1126"
+      "#B81D2B",
+      "#F7BB0D",
+      "#288E66"
     ]
   },
   {
@@ -150,9 +150,9 @@
     "hint2_es": "AMERICA DEL SUR",
     "hint2_en": "SOUTH AMERICA",
     "colors": [
-      "#377E3F",
-      "#FFFFFF",
-      "#B40A2D"
+      "#357A3D",
+      "#F7F7F7",
+      "#E4C11C"
     ]
   },
   {
@@ -189,9 +189,9 @@
     "hint2_es": "AMERICA DEL NORTE",
     "hint2_en": "NORTH AMERICA",
     "colors": [
-      "#FF0000",
+      "#CE291D",
       "#FFFFFF",
-      "#D80621"
+      "#CE291D"
     ]
   },
   {
@@ -199,8 +199,8 @@
     "name_en": "GUATEMALA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#4997D0",
       "#FFFFFF",
@@ -212,8 +212,8 @@
     "name_en": "HONDURAS",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#00BCE4",
       "#FFFFFF",
@@ -225,8 +225,8 @@
     "name_en": "EL SALVADOR",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#0047AB",
       "#FFFFFF",
@@ -238,8 +238,8 @@
     "name_en": "NICARAGUA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#0067C6",
       "#FFFFFF",
@@ -251,8 +251,8 @@
     "name_en": "COSTA RICA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#002B7F",
       "#FFFFFF",
@@ -264,8 +264,8 @@
     "name_en": "PANAMA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#005293",
       "#FFFFFF",
@@ -277,8 +277,8 @@
     "name_en": "CUBA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "CARIBE",
+    "hint2_en": "CARIBBEAN",
     "colors": [
       "#002A8F",
       "#FFFFFF",
@@ -290,8 +290,8 @@
     "name_en": "DOMINICAN REPUBLIC",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "CARIBE",
+    "hint2_en": "CARIBBEAN",
     "colors": [
       "#002D62",
       "#FFFFFF",
@@ -303,8 +303,8 @@
     "name_en": "HAITI",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "CARIBE",
+    "hint2_en": "CARIBBEAN",
     "colors": [
       "#00209F",
       "#D21034",
@@ -316,8 +316,8 @@
     "name_en": "JAMAICA",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "CARIBE",
+    "hint2_en": "CARIBBEAN",
     "colors": [
       "#009B3A",
       "#FED100",
@@ -329,8 +329,8 @@
     "name_en": "BELIZE",
     "hint1_es": "HEMISFERIO NORTE",
     "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AMERICA DEL NORTE",
-    "hint2_en": "NORTH AMERICA",
+    "hint2_es": "AMERICA CENTRAL",
+    "hint2_en": "CENTRAL AMERICA",
     "colors": [
       "#003F87",
       "#CE1126",
@@ -345,9 +345,9 @@
     "hint2_es": "EUROPA",
     "hint2_en": "EUROPE",
     "colors": [
-      "#AA151B",
-      "#F1BF00",
-      "#C60B1E"
+      "#A71418",
+      "#F2B700",
+      "#A71418"
     ]
   },
   {
@@ -455,19 +455,6 @@
     ]
   },
   {
-    "name_es": "SUIZA",
-    "name_en": "SWITZERLAND",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#FF0000",
-      "#FFFFFF",
-      "#D52B1E"
-    ]
-  },
-  {
     "name_es": "AUSTRIA",
     "name_en": "AUSTRIA",
     "hint1_es": "HEMISFERIO NORTE",
@@ -475,22 +462,9 @@
     "hint2_es": "EUROPA",
     "hint2_en": "EUROPE",
     "colors": [
-      "#ED2939",
+      "#C10F2C",
       "#FFFFFF",
-      "#C8102E"
-    ]
-  },
-  {
-    "name_es": "POLONIA",
-    "name_en": "POLAND",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#FFFFFF",
-      "#DC143C",
-      "#D4213D"
+      "#C10F2C"
     ]
   },
   {
@@ -559,32 +533,6 @@
     ]
   },
   {
-    "name_es": "DINAMARCA",
-    "name_en": "DENMARK",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#C60C30",
-      "#FFFFFF",
-      "#A4002A"
-    ]
-  },
-  {
-    "name_es": "FINLANDIA",
-    "name_en": "FINLAND",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#FFFFFF",
-      "#002F6C",
-      "#003580"
-    ]
-  },
-  {
     "name_es": "RUSIA",
     "name_en": "RUSSIA",
     "hint1_es": "HEMISFERIO NORTE",
@@ -595,32 +543,6 @@
       "#FFFFFF",
       "#0039A6",
       "#D52B1E"
-    ]
-  },
-  {
-    "name_es": "UCRANIA",
-    "name_en": "UKRAINE",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#0057B7",
-      "#FFD700",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "TURQUIA",
-    "name_en": "TURKEY",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "EUROPA",
-    "hint2_en": "EUROPE",
-    "colors": [
-      "#E30A17",
-      "#FFFFFF",
-      "#C8102E"
     ]
   },
   {
@@ -689,19 +611,6 @@
     ]
   },
   {
-    "name_es": "MARRUECOS",
-    "name_en": "MOROCCO",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "AFRICA",
-    "hint2_en": "AFRICA",
-    "colors": [
-      "#C1272D",
-      "#006233",
-      "#FFFFFF"
-    ]
-  },
-  {
     "name_es": "ARGELIA",
     "name_en": "ALGERIA",
     "hint1_es": "HEMISFERIO NORTE",
@@ -748,9 +657,9 @@
     "hint2_es": "AFRICA",
     "hint2_en": "AFRICA",
     "colors": [
-      "#008751",
-      "#FFFFFF",
-      "#007A3D"
+      "#00824E",
+      "#F7F7F7",
+      "#00824E"
     ]
   },
   {
@@ -814,8 +723,8 @@
     "hint2_en": "AFRICA",
     "colors": [
       "#000000",
-      "#BB0000",
-      "#006600"
+      "#B50000",
+      "#006200"
     ]
   },
   {
@@ -956,9 +865,9 @@
     "hint2_es": "AFRICA",
     "hint2_en": "AFRICA",
     "colors": [
-      "#009739",
-      "#FCD116",
-      "#CE1126"
+      "#006000",
+      "#F7CB00",
+      "#CD0000"
     ]
   },
   {
@@ -982,35 +891,9 @@
     "hint2_es": "AFRICA",
     "hint2_en": "AFRICA",
     "colors": [
-      "#003580",
-      "#D21034",
-      "#009543"
-    ]
-  },
-  {
-    "name_es": "CHINA",
-    "name_en": "CHINA",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#DE2910",
-      "#FFDE00",
-      "#D21034"
-    ]
-  },
-  {
-    "name_es": "JAPON",
-    "name_en": "JAPAN",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#FFFFFF",
-      "#BC002D",
-      "#D32F2F"
+      "#002D68",
+      "#C10F2C",
+      "#009541"
     ]
   },
   {
@@ -1066,32 +949,6 @@
     ]
   },
   {
-    "name_es": "BANGLADES",
-    "name_en": "BANGLADESH",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#006A4E",
-      "#F42A41",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "INDONESIA",
-    "name_en": "INDONESIA",
-    "hint1_es": "HEMISFERIO SUR",
-    "hint1_en": "SOUTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#FF0000",
-      "#FFFFFF",
-      "#D50000"
-    ]
-  },
-  {
     "name_es": "FILIPINAS",
     "name_en": "PHILIPPINES",
     "hint1_es": "HEMISFERIO NORTE",
@@ -1118,19 +975,6 @@
     ]
   },
   {
-    "name_es": "VIETNAM",
-    "name_en": "VIETNAM",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#DA251D",
-      "#FFCD00",
-      "#FFFFFF"
-    ]
-  },
-  {
     "name_es": "MALASIA",
     "name_en": "MALAYSIA",
     "hint1_es": "HEMISFERIO NORTE",
@@ -1151,22 +995,9 @@
     "hint2_es": "ASIA",
     "hint2_en": "ASIA",
     "colors": [
-      "#EF3340",
-      "#FFFFFF",
-      "#D21034"
-    ]
-  },
-  {
-    "name_es": "ARABIA SAUDITA",
-    "name_en": "SAUDI ARABIA",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#006C35",
-      "#FFFFFF",
-      "#004B23"
+      "#F7F7F7",
+      "#E52737",
+      "#F7F7F7"
     ]
   },
   {
@@ -1203,9 +1034,9 @@
     "hint2_es": "ASIA",
     "hint2_en": "ASIA",
     "colors": [
-      "#FFFFFF",
-      "#0038B8",
-      "#005BBB"
+      "#0036B2",
+      "#F7F7F7",
+      "#0036B2"
     ]
   },
   {
@@ -1248,19 +1079,6 @@
     ]
   },
   {
-    "name_es": "QATAR",
-    "name_en": "QATAR",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#8A1538",
-      "#FFFFFF",
-      "#5C0632"
-    ]
-  },
-  {
     "name_es": "KAZAJISTAN",
     "name_en": "KAZAKHSTAN",
     "hint1_es": "HEMISFERIO NORTE",
@@ -1268,9 +1086,9 @@
     "hint2_es": "ASIA",
     "hint2_en": "ASIA",
     "colors": [
-      "#00AFCA",
-      "#F7D417",
-      "#FFFFFF"
+      "#FFED29",
+      "#00ADC3",
+      "#FFED29"
     ]
   },
   {
@@ -1339,19 +1157,6 @@
     ]
   },
   {
-    "name_es": "GEORGIA",
-    "name_en": "GEORGIA",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "ASIA",
-    "hint2_en": "ASIA",
-    "colors": [
-      "#FFFFFF",
-      "#FF0000",
-      "#D40000"
-    ]
-  },
-  {
     "name_es": "AZERBAIYAN",
     "name_en": "AZERBAIJAN",
     "hint1_es": "HEMISFERIO NORTE",
@@ -1404,19 +1209,6 @@
     ]
   },
   {
-    "name_es": "FIYI",
-    "name_en": "FIJI",
-    "hint1_es": "HEMISFERIO SUR",
-    "hint1_en": "SOUTHERN HEMISPHERE",
-    "hint2_es": "OCEANIA",
-    "hint2_en": "OCEANIA",
-    "colors": [
-      "#68BFE5",
-      "#FFFFFF",
-      "#CF142B"
-    ]
-  },
-  {
     "name_es": "PAPUA NUEVA GUINEA",
     "name_en": "PAPUA NEW GUINEA",
     "hint1_es": "HEMISFERIO SUR",
@@ -1450,9 +1242,9 @@
     "hint2_es": "OCEANIA",
     "hint2_en": "OCEANIA",
     "colors": [
-      "#C10000",
-      "#FFFFFF",
-      "#E30022"
+      "#BA0000",
+      "#F7F7F7",
+      "#BA0000"
     ]
   },
   {
@@ -1482,19 +1274,6 @@
     ]
   },
   {
-    "name_es": "MICRONESIA",
-    "name_en": "MICRONESIA",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "OCEANIA",
-    "hint2_en": "OCEANIA",
-    "colors": [
-      "#75B2DD",
-      "#FFFFFF",
-      "#5DADE2"
-    ]
-  },
-  {
     "name_es": "KIRIBATI",
     "name_en": "KIRIBATI",
     "hint1_es": "HEMISFERIO NORTE",
@@ -1502,22 +1281,9 @@
     "hint2_es": "OCEANIA",
     "hint2_en": "OCEANIA",
     "colors": [
-      "#CE1126",
-      "#FCD116",
-      "#003F87"
-    ]
-  },
-  {
-    "name_es": "PALAOS",
-    "name_en": "PALAU",
-    "hint1_es": "HEMISFERIO NORTE",
-    "hint1_en": "NORTHERN HEMISPHERE",
-    "hint2_es": "OCEANIA",
-    "hint2_en": "OCEANIA",
-    "colors": [
-      "#4AADD6",
-      "#FFDE00",
-      "#FFFFFF"
+      "#C10F0F",
+      "#F0C900",
+      "#162D6B"
     ]
   },
   {
@@ -1531,19 +1297,6 @@
       "#002B7F",
       "#FFC72C",
       "#FFFFFF"
-    ]
-  },
-  {
-    "name_es": "TUVALU",
-    "name_en": "TUVALU",
-    "hint1_es": "HEMISFERIO SUR",
-    "hint1_en": "SOUTHERN HEMISPHERE",
-    "hint2_es": "OCEANIA",
-    "hint2_en": "OCEANIA",
-    "colors": [
-      "#5BCEFA",
-      "#FFFFFF",
-      "#FF0000"
     ]
   },
   {

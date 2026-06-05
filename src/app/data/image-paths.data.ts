@@ -8,6 +8,8 @@ export const IMAGE_PATHS = [
   'icons/back.png',
   'icons/brush.png',
   'icons/english.png',
+  'icons/hint_one.png',
+  'icons/hint_two.png',
   'icons/palette.png',
   'icons/spanish.png',
   'images/background_one.png',

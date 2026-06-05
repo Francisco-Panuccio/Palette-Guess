@@ -12,8 +12,13 @@
   --background-fiber: rgb(255 255 255 / 0.34);
   --primary-color: #423E40;
   --secondary-color: #686464;
+  --white: #FFFFFF;
+  --grey: #a5a4a4;
+  --violet: #9064CD;
+  --blue: #2FA7B3;
+  --orange: #F27531;
+
   --font-base: 'LaMeuteFurieuse', serif;
-  
   font-family: var(--font-base);
 }
 
