@@ -116,7 +116,8 @@ export class CharactersModeComponent implements OnInit{
   }
 
   protected getColor(index: number): string {
-    return this.currentOption?.colors[index] ?? 'transparent';
+    const argentinaColors = ['#75AADB', '#FFFFFF', '#75AADB'];
+    return this.currentOption?.colors[index] ?? argentinaColors[index] ?? 'transparent';
   }
 
   protected async chooseCategory(category: Category): Promise<void> {

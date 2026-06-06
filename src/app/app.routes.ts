@@ -1,7 +1,6 @@
 import { Routes } from '@angular/router';
 import { ErrorComponent } from './pages/error/error.component';
 import { HomeComponent } from './pages/home/home.component';
-import { LoadingComponent } from './pages/loading/loading.component';
 
 export const routes: Routes = [
   {
@@ -23,11 +22,6 @@ export const routes: Routes = [
     path: 'challenge-mode',
     loadComponent: () => import('./pages/challenge-mode/challenge-mode.component').then((m) => m.ChallengeModeComponent),
     title: 'Palette Guess - Challenge Mode'
-  },
-  {
-    path: 'loading',
-    loadComponent: () => import('./pages/loading/loading.component').then((m) => m.LoadingComponent),
-    title: 'Palette Guess - Loading'
   },
   {
     path: 'error',

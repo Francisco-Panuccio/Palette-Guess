@@ -4,8 +4,7 @@ export type Language = 'es' | 'en';
 
 type HomeMessages = {
   languageAlt: string;
-  introLineOne: string;
-  introLineTwo: string;
+  introLine: string;
   characterTitle: string;
   characterSubtitle: string;
   chromaticTitle: string;
@@ -62,8 +61,7 @@ type CharactersMessages = {
 const HOME_MESSAGES: Record<Language, HomeMessages> = {
   es: {
     languageAlt: 'Cambiar idioma a ingles',
-    introLineOne: 'Elige tu modo de juego',
-    introLineTwo: 'y pon a prueba tu ojo art\u00edstico',
+    introLine: 'Elige tu modo de juego y pon a prueba tu ojo art\u00edstico',
     characterTitle: 'PERSONAJES',
     characterSubtitle: 'Adivina el personaje por sus colores',
     chromaticTitle: 'CROM\u00c1TICO',
@@ -73,8 +71,7 @@ const HOME_MESSAGES: Record<Language, HomeMessages> = {
   },
   en: {
     languageAlt: 'Switch language to Spanish',
-    introLineOne: 'Choose your game mode',
-    introLineTwo: 'and put your artistic eye to the test',
+    introLine: 'Choose your game mode and put your artistic eye to the test',
     characterTitle: 'CHARACTERS',
     characterSubtitle: 'Guess the character by their colors',
     chromaticTitle: 'CHROMATIC',

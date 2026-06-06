@@ -138,7 +138,7 @@
   justify-content: center;
   align-items: center;
   font-size: 40px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   width: 15%;
 }
@@ -171,4 +171,80 @@
   border-right: 6px solid var(--violet);
   border-radius: 3px;
   transform: rotate(45deg);
+}
+
+@media (min-width: 464px) {
+  .div_header {
+    margin: 0 0 20px 0;
+  }
+
+  .div_mode {
+    height: 140px;
+  }
+}
+
+@media (min-width: 600px) {
+  .h1_header {
+    font-size: 50px;
+  }
+
+  .div_spans {
+    span {
+      font-size: 18px;
+    }
+  }
+
+  .div_mode {
+    height: 150px;
+  }
+
+  .div_mode_image {
+    width: 160px;
+    height: 130px;
+  }
+
+  .span_mode_title {
+    font-size: 24px;
+  }
+
+  .span_mode_subtitle {
+    font-size: 18px;
+  }
+}
+
+
+@media (min-width: 700px) {
+  .div_mode {
+    height: 160px;
+  }
+
+  .div_mode_image {
+    width: 180px;
+    height: 145px;
+  }
+}
+
+@media (min-width: 800px) {
+  .h1_header {
+    font-size: 65px;
+  }
+
+  .div_mode {
+    width: 750px;
+    height: 170px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .h1_header {
+    font-size: 80px;
+  }
+
+  .span_mode_subtitle {
+    font-size: 20px;
+  }
+
+  .div_mode {
+    height: 180px;
+  }
 }

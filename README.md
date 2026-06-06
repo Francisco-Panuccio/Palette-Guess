@@ -1,59 +1,131 @@
-# PaletteGuess
+# Palette Guess
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Palette Guess is a bilingual color-based guessing game built with Angular. Players test their visual memory by identifying characters, countries, brands, and individual colors from carefully selected palettes.
 
-## Development server
+## Live Demo
 
-To start a local development server, run:
+[Play Palette Guess on GitHub Pages](https://francisco-panuccio.github.io/Palette-Guess/)
 
-```bash
-ng serve
+## Game Modes
+
+### Characters
+
+Guess a character, country, or brand using its three-color palette.
+
+- Selectable categories with dedicated JSON datasets
+- Progressive hints
+- Automatic answer validation
+- Spanish and English names and hints
+- Session-based history to avoid repeated answers
+- Responsive keyboard behavior for desktop and mobile
+
+### Chromatic
+
+Reproduce a randomly generated target color by adjusting:
+
+- Hue
+- Saturation
+- Brightness
+
+The result includes an accuracy percentage based on the distance between both colors.
+
+### Challenge
+
+A combined challenge mode is planned for a future release.
+
+## Features
+
+- Spanish and English translations with session persistence
+- Responsive design for desktop and mobile
+- Custom loading animation and image preloading
+- Mobile-friendly input and viewport handling
+- Lazy-loaded game mode routes
+- Custom error page
+- GitHub Pages deployment through the `docs` directory
+
+## Technology
+
+- Angular 19
+- TypeScript
+- HTML and CSS
+- Angular Router
+- Signals and computed state
+- JSON datasets stored in `public/data`
+
+## Project Structure
+
+```text
+public/
+  data/                 Game datasets
+  fonts/                Custom fonts
+  icons/                Interface icons
+  images/               Visual assets
+src/app/
+  data/                 Application data configuration
+  pages/                Home, game modes, loading, and error pages
+  services/             Translation and image preload services
+docs/                   GitHub Pages production build
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Local Development
 
-## Code scaffolding
+Requirements:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- Node.js
+- npm
+- Angular CLI 19
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Install dependencies:
 
 ```bash
-ng generate --help
+npm install
 ```
 
-## Building
-
-To build the project run:
+Start the development server:
 
 ```bash
-ng build
+npm run start
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Open `http://localhost:4200/`.
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## Available Scripts
 
 ```bash
-ng test
+npm run start
 ```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+Starts the Angular development server.
 
 ```bash
-ng e2e
+npm run build
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Creates a production build in `dist/palette-guess`.
 
-## Additional Resources
+```bash
+npm run build:ghpages
+```
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Creates the GitHub Pages build in `docs`, copies the fallback `404.html`, and creates `.nojekyll`.
+
+```bash
+npm run test
+```
+
+Runs the unit tests with Karma.
+
+## Deployment
+
+GitHub Pages serves the contents of the `docs` directory. Before publishing changes:
+
+```bash
+npm run build:ghpages
+git add -A
+git commit -m "Your commit message"
+git push origin main
+```
+
+## Author
+
+Developed by [Francisco Panuccio](https://github.com/Francisco-Panuccio).

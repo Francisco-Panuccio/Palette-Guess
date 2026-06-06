@@ -183,3 +183,26 @@ button {
     transform: translateY(0) scale(1);
   }
 }
+
+@media (min-width: 800px) {
+  .div_container {
+    background-position: initial;
+  }
+}
+
+@media (min-width: 1000px) {
+  .div_container {
+    max-width: none;
+  }
+
+  .btn_language {
+    width: 60px;
+    height: 40px;
+  }
+
+  .btn_back {
+    width: 40px;
+    height: 40px;
+    background-size: 155%;
+  }
+}

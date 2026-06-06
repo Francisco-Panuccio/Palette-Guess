@@ -97,7 +97,7 @@
   align-items: flex-start;
   text-align: center;
   gap: 10px;
-  width: 100%;
+  width: 325px;
   height: fit-content;
   border-radius: 20px;
   border: none;
@@ -304,4 +304,101 @@
 
 .retry_two {
   margin: 10px 0 2px 0;
+}
+
+@media (min-width: 450px) {
+  .div_color_objective {
+    width: 180px;
+  }
+
+  .div_selector {
+    width: 400px;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 550px) {
+  .h1_header {
+    font-size: 45px;
+  }
+
+  .span_header {
+    font-size: 20px;
+  }
+
+  .div_color_objective {
+    width: 200px;
+    height: 250px;
+  }
+
+  .div_color {
+    height: 100%;
+  }
+}
+
+@media (min-width: 700px) {
+  .div_selector {
+    width: 500px;
+    gap: 20px;
+  }
+
+  .span_selector_title {
+    font-size: 18px;
+  }
+
+  .span_opt,
+  .span_value {
+    font-weight: 700;
+    font-size: 13px;
+  }
+
+  .div_color_objective {
+    width: 300px;
+  }
+
+  .span_title {
+    font-size: 18px;
+  }
+
+  .text_span_one {
+    font-size: 16px;
+  }
+
+  .text_span_two {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 800px) {
+  .h1_header {
+    font-size: 55px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .div_main {
+    gap: 30px;
+  }
+
+  .h1_header {
+    font-size: 75px;
+  }
+
+  .span_header {
+    font-size: 22px;
+    margin-top: -10px;
+  }
+
+  .img_header {
+    width: 120px;
+    height: 60px;
+  }
+
+  .div_color_objective {
+    width: 400px;
+  }
+
+  .div_btns {
+    gap: 20px;
+  }
 }

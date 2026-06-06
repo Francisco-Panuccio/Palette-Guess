@@ -819,19 +819,6 @@
     ]
   },
   {
-    "name_es": "REPUBLICA DEMOCRATICA DEL CONGO",
-    "name_en": "DEMOCRATIC REPUBLIC OF THE CONGO",
-    "hint1_es": "HEMISFERIO SUR",
-    "hint1_en": "SOUTHERN HEMISPHERE",
-    "hint2_es": "AFRICA",
-    "hint2_en": "AFRICA",
-    "colors": [
-      "#007FFF",
-      "#F7D618",
-      "#CE1021"
-    ]
-  },
-  {
     "name_es": "RUANDA",
     "name_en": "RWANDA",
     "hint1_es": "HEMISFERIO SUR",
