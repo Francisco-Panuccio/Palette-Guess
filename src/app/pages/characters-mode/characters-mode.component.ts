@@ -100,6 +100,10 @@ export class CharactersModeComponent implements OnInit{
     return this.selectedCategory ? this.categoryTitleMap[this.selectedCategory] : this.messages.characters().title;
   }
 
+  protected get hasThreeWords(): boolean {
+    return this.currentName.trim().split(/\s+/).filter(Boolean).length >= 3;
+  }
+
   protected get answerRows(): number[][] {
     let currentIndex = 0;
 
@@ -142,6 +146,10 @@ export class CharactersModeComponent implements OnInit{
 
     if (hintNumber === 1) {
       this.hintOneVisible = true;
+      return;
+    }
+
+    if (!this.hintOneVisible) {
       return;
     }
 

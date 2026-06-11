@@ -20,7 +20,7 @@
 
         <div class="div_main">
             <div class="div_central_game">
-                <div class="div_characters_colors">
+                <div class="div_characters_colors" [class.three_words]="hasThreeWords">
                     <div class="div_color color_one" [style.background]="getColor(0)"></div>
                     <div class="div_color color_two" [style.background]="getColor(1)"></div>
                     <div class="div_color color_three" [style.background]="getColor(2)"></div>
@@ -32,7 +32,7 @@
                         <span>{{ messages.characters().hintOne }}</span>
                     </button>
 
-                    <button class="div_hint hint_two" type="button" (click)="revealHint(2)" [disabled]="!currentOption">
+                    <button class="div_hint hint_two" type="button" (click)="revealHint(2)" [disabled]="!currentOption || !hintOneVisible">
                         <img src="icons/hint_two.png" alt="hint two">
                         <span>{{ messages.characters().hintTwo }}</span>
                     </button>
